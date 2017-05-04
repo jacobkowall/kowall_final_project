@@ -1,0 +1,1473 @@
+,Source,Target,Weight,Type
+1,Ballantyne_Away in the Wilderness_1863,Ballantyne_Chasing the Sun_1864,1,undirected
+2,Ballantyne_Away in the Wilderness_1863,Ballantyne_Deep Down_1868,3,undirected
+3,Ballantyne_Away in the Wilderness_1863,Ballantyne_Fast in the Ice_1863,3,undirected
+4,Ballantyne_Away in the Wilderness_1863,Ballantyne_Fighting the Whales_1863,1,undirected
+5,Ballantyne_Away in the Wilderness_1863,Ballantyne_The Butterfly's Ball_1874,2,undirected
+6,Ballantyne_Away in the Wilderness_1863,Ballantyne_The Lighthouse_1865,2,undirected
+7,Ballantyne_Away in the Wilderness_1863,Ballantyne_The World of Ice_1859,1,undirected
+8,Ballantyne_Black Ivory_1873,Ballantyne_Deep Down_1868,5,undirected
+9,Ballantyne_Black Ivory_1873,Ballantyne_Digging for Gold_1869,2,undirected
+10,Ballantyne_Black Ivory_1873,Ballantyne_Hunted and Harried_1892,3,undirected
+11,Ballantyne_Black Ivory_1873,Ballantyne_In the Track of the Troops_1878,2,undirected
+12,Ballantyne_Black Ivory_1873,Ballantyne_Sunk at Sea_1869,3,undirected
+13,Ballantyne_Black Ivory_1873,Ballantyne_The Fugitives_1887,1,undirected
+14,Ballantyne_Black Ivory_1873,Ballantyne_The Iron Horse_1879,1,undirected
+15,Ballantyne_Black Ivory_1873,Ballantyne_The Norsemen in the West_1872,2,undirected
+16,Ballantyne_Black Ivory_1873,Ballantyne_The Pioneers_1872,1,undirected
+17,Ballantyne_Black Ivory_1873,Ballantyne_The Pirate City_1874,6,undirected
+18,Ballantyne_Black Ivory_1873,Ballantyne_The Settler and the Savage_1877,1,undirected
+19,Ballantyne_Black Ivory_1873,Ballantyne_Under the Waves_1876,2,undirected
+20,Ballantyne_Blown to Bits_1889,Ballantyne_Chasing the Sun_1864,2,undirected
+21,Ballantyne_Blown to Bits_1889,Ballantyne_Gascoyne_1864,2,undirected
+22,Ballantyne_Blown to Bits_1889,Ballantyne_Over the Rocky Mountains_1869,2,undirected
+23,Ballantyne_Blown to Bits_1889,Ballantyne_Rivers of Ice_1875,4,undirected
+24,Ballantyne_Blown to Bits_1889,Ballantyne_The Battery and the Boiler_1883,6,undirected
+25,Ballantyne_Blown to Bits_1889,Ballantyne_The Big Otter_1887,2,undirected
+26,Ballantyne_Blown to Bits_1889,Ballantyne_The Crew of the Water Wagtail_1889,2,undirected
+27,Ballantyne_Blown to Bits_1889,Ballantyne_The Giant of the North_1882,1,undirected
+28,Ballantyne_Blown to Bits_1889,Ballantyne_The Gorilla Hunters_1861,1,undirected
+29,Ballantyne_Blown to Bits_1889,Ballantyne_The Rover of the Andes_1885,4,undirected
+30,Ballantyne_Blown to Bits_1889,Ballantyne_Wrecked But Not Ruined_1895,3,undirected
+31,Ballantyne_Blue Lights_1888,Ballantyne_Charlie to the Rescue_1890,3,undirected
+32,Ballantyne_Blue Lights_1888,Ballantyne_Digging for Gold_1869,3,undirected
+33,Ballantyne_Blue Lights_1888,Ballantyne_Hunted and Harried_1892,1,undirected
+34,Ballantyne_Blue Lights_1888,Ballantyne_The Buffalo Runners_1891,3,undirected
+35,Ballantyne_Blue Lights_1888,Ballantyne_The Eagle Cliff_1889,4,undirected
+36,Ballantyne_Charlie to the Rescue_1890,Ballantyne_Blue Lights_1888,3,undirected
+37,Ballantyne_Charlie to the Rescue_1890,Ballantyne_Jeff Benson_1890,2,undirected
+38,Ballantyne_Charlie to the Rescue_1890,Ballantyne_The Eagle Cliff_1889,3,undirected
+39,Ballantyne_Charlie to the Rescue_1890,Ballantyne_The Hot Swamp_1892,2,undirected
+40,Ballantyne_Charlie to the Rescue_1890,Ballantyne_The Middy and the Moors_1888,2,undirected
+41,Ballantyne_Charlie to the Rescue_1890,Ballantyne_The Young Trawler_1884,3,undirected
+42,Ballantyne_Charlie to the Rescue_1890,Ballantyne_Twice Bought_1885,3,undirected
+43,Ballantyne_Chasing the Sun_1864,Ballantyne_Away in the Wilderness_1863,1,undirected
+44,Ballantyne_Chasing the Sun_1864,Ballantyne_Blown to Bits_1889,2,undirected
+45,Ballantyne_Chasing the Sun_1864,Ballantyne_The Iron Horse_1879,3,undirected
+46,Ballantyne_Deep Down_1868,Ballantyne_Away in the Wilderness_1863,3,undirected
+47,Ballantyne_Deep Down_1868,Ballantyne_Black Ivory_1873,5,undirected
+48,Ballantyne_Deep Down_1868,Ballantyne_Fort Desolation_1873,1,undirected
+49,Ballantyne_Deep Down_1868,Ballantyne_Hunting the Lions_1869,3,undirected
+50,Ballantyne_Deep Down_1868,Ballantyne_The Iron Horse_1879,1,undirected
+51,Ballantyne_Deep Down_1868,Ballantyne_The Lifeboat_1864,4,undirected
+52,Ballantyne_Deep Down_1868,Ballantyne_The Young Fur-Traders_1856,2,undirected
+53,Ballantyne_Digging for Gold_1869,Ballantyne_Black Ivory_1873,2,undirected
+54,Ballantyne_Digging for Gold_1869,Ballantyne_Blue Lights_1888,3,undirected
+55,Ballantyne_Digging for Gold_1869,Ballantyne_Under the Waves_1876,1,undirected
+56,Ballantyne_Dusty Diamonds Cut and Polished_1884,Ballantyne_My Doggie and I_1881,3,undirected
+57,Ballantyne_Dusty Diamonds Cut and Polished_1884,Ballantyne_Post Haste_1880,1,undirected
+58,Ballantyne_Dusty Diamonds Cut and Polished_1884,Ballantyne_The Eagle Cliff_1889,2,undirected
+59,Ballantyne_Dusty Diamonds Cut and Polished_1884,Ballantyne_The Young Trawler_1884,6,undirected
+60,Ballantyne_Erling the Bold_ 1869,Ballantyne_The Giant of the North_1882,1,undirected
+61,Ballantyne_Erling the Bold_ 1869,Ballantyne_The Norsemen in the West_1872,2,undirected
+62,Ballantyne_Erling the Bold_ 1869,Ballantyne_The Walrus Hunters_1893,3,undirected
+63,Ballantyne_Fast in the Ice_1863,Ballantyne_Away in the Wilderness_1863,3,undirected
+64,Ballantyne_Fast in the Ice_1863,Ballantyne_Fighting the Whales_1863,3,undirected
+65,Ballantyne_Fast in the Ice_1863,Ballantyne_The Lighthouse_1865,1,undirected
+66,Ballantyne_Fast in the Ice_1863,Ballantyne_The World of Ice_1859,2,undirected
+67,Ballantyne_Fighting the Flames_1867,Ballantyne_Life in the Red Brigade_1873,1,undirected
+68,Ballantyne_Fighting the Flames_1867,Ballantyne_Philosopher Jack_1879,1,undirected
+69,Ballantyne_Fighting the Flames_1867,Ballantyne_Shifting Winds_1868,6,undirected
+70,Ballantyne_Fighting the Flames_1867,Ballantyne_Under the Waves_1876,2,undirected
+71,Ballantyne_Fighting the Whales_1863,Ballantyne_Away in the Wilderness_1863,1,undirected
+72,Ballantyne_Fighting the Whales_1863,Ballantyne_Fast in the Ice_1863,3,undirected
+73,Ballantyne_Fighting the Whales_1863,Ballantyne_The Coral Island_1857,2,undirected
+74,Ballantyne_Fort Desolation_1873,Ballantyne_Deep Down_1868,1,undirected
+75,Ballantyne_Fort Desolation_1873,Ballantyne_The Golden Dream_1861,3,undirected
+76,Ballantyne_Fort Desolation_1873,Ballantyne_The Wild Man of the West_1863,2,undirected
+77,Ballantyne_Freaks on the Fells_1864,Ballantyne_Shifting Winds_1868,2,undirected
+78,Ballantyne_Freaks on the Fells_1864,Ballantyne_The Red Eric_1861,1,undirected
+79,Ballantyne_Freaks on the Fells_1864,Ballantyne_The Red Man's Revenge_1880,3,undirected
+80,Ballantyne_Gascoyne_1864,Ballantyne_Blown to Bits_1889,2,undirected
+81,Ballantyne_Gascoyne_1864,Ballantyne_The Lifeboat_1864,1,undirected
+82,Ballantyne_Gascoyne_1864,Ballantyne_The Rover of the Andes_1885,3,undirected
+83,Ballantyne_Hunted and Harried_1892,Ballantyne_Black Ivory_1873,3,undirected
+84,Ballantyne_Hunted and Harried_1892,Ballantyne_Blue Lights_1888,1,undirected
+85,Ballantyne_Hunted and Harried_1892,Ballantyne_The Pirate City_1874,2,undirected
+86,Ballantyne_Hunting the Lions_1869,Ballantyne_Deep Down_1868,3,undirected
+87,Ballantyne_Hunting the Lions_1869,Ballantyne_The Golden Dream_1861,1,undirected
+88,Ballantyne_Hunting the Lions_1869,Ballantyne_The Iron Horse_1879,2,undirected
+89,Ballantyne_In the Track of the Troops_1878,Ballantyne_Black Ivory_1873,2,undirected
+90,Ballantyne_In the Track of the Troops_1878,Ballantyne_Six Months at the Cape_1879,1,undirected
+91,Ballantyne_In the Track of the Troops_1878,Ballantyne_The Pirate City_1874,2,undirected
+92,Ballantyne_In the Track of the Troops_1878,Ballantyne_Under the Waves_1876,3,undirected
+93,Ballantyne_Jarwin and Cuffy_1878,Ballantyne_The Coxswain's Bride_1891,2,undirected
+94,Ballantyne_Jarwin and Cuffy_1878,Ballantyne_The Floating Light of the Goodwin Sands_1870,3,undirected
+95,Ballantyne_Jarwin and Cuffy_1878,Ballantyne_The Red Man's Revenge_1880,1,undirected
+96,Ballantyne_Jeff Benson_1890,Ballantyne_Charlie to the Rescue_1890,2,undirected
+97,Ballantyne_Jeff Benson_1890,Ballantyne_The Buffalo Runners_1891,1,undirected
+98,Ballantyne_Jeff Benson_1890,Ballantyne_The Young Trawler_1884,3,undirected
+99,Ballantyne_Life in the Red Brigade_1873,Ballantyne_Fighting the Flames_1867,1,undirected
+100,Ballantyne_Life in the Red Brigade_1873,Ballantyne_The Floating Light of the Goodwin Sands_1870,2,undirected
+101,Ballantyne_Life in the Red Brigade_1873,Ballantyne_Under the Waves_1876,3,undirected
+102,Ballantyne_Lost in the Forest_1869,Ballantyne_Martin Rattler_1858,1,undirected
+103,Ballantyne_Lost in the Forest_1869,Ballantyne_Sunk at Sea_1869,2,undirected
+104,Ballantyne_Lost in the Forest_1869,Ballantyne_The Dog Crusoe_1860,3,undirected
+105,Ballantyne_Man on the Ocean_1863,Ballantyne_The Ocean and its Wonders_1874,6,undirected
+106,Ballantyne_Man on the Ocean_1863,Ballantyne_Up in the Clouds_1869,3,undirected
+107,Ballantyne_Man on the Ocean_1863,Ballatyne_Battles with the Sea_1883,2,undirected
+108,Ballantyne_Martin Rattler_1858,Ballantyne_Lost in the Forest_1869,1,undirected
+109,Ballantyne_Martin Rattler_1858,Ballantyne_The Dog Crusoe_1860,4,undirected
+110,Ballantyne_Martin Rattler_1858,Ballantyne_The Young Fur-Traders_1856,2,undirected
+111,Ballantyne_Martin Rattler_1858,Ballantyne_Ungava_1857,3,undirected
+112,Ballantyne_My Doggie and I_1881,Ballantyne_Dusty Diamonds Cut and Polished_1884,3,undirected
+113,Ballantyne_My Doggie and I_1881,Ballantyne_The Middy and the Moors_1888,2,undirected
+114,Ballantyne_My Doggie and I_1881,Ballantyne_The Young Trawler_1884,1,undirected
+115,Ballantyne_Over the Rocky Mountains_1869,Ballantyne_Blown to Bits_1889,2,undirected
+116,Ballantyne_Over the Rocky Mountains_1869,Ballantyne_Silver Lake_1867,1,undirected
+117,Ballantyne_Over the Rocky Mountains_1869,Ballantyne_The Golden Dream_1861,3,undirected
+118,Ballantyne_Philosopher Jack_1879,Ballantyne_Fighting the Flames_1867,1,undirected
+119,Ballantyne_Philosopher Jack_1879,Ballantyne_Post Haste_1880,1,undirected
+120,Ballantyne_Philosopher Jack_1879,Ballantyne_Shifting Winds_1868,1,undirected
+121,Ballantyne_Philosopher Jack_1879,Ballantyne_The Battery and the Boiler_1883,2,undirected
+122,Ballantyne_Philosopher Jack_1879,Ballantyne_The Eagle Cliff_1889,5,undirected
+123,Ballantyne_Philosopher Jack_1879,Ballantyne_The Thorogood Family_1883,3,undirected
+124,Ballantyne_Philosopher Jack_1879,Ballantyne_Wrecked But Not Ruined_1895,2,undirected
+125,Ballantyne_Post Haste_1880,Ballantyne_Dusty Diamonds Cut and Polished_1884,1,undirected
+126,Ballantyne_Post Haste_1880,Ballantyne_Philosopher Jack_1879,1,undirected
+127,Ballantyne_Post Haste_1880,Ballantyne_Rivers of Ice_1875,5,undirected
+128,Ballantyne_Post Haste_1880,Ballantyne_The Garret and the Garden_1890,3,undirected
+129,Ballantyne_Post Haste_1880,Ballantyne_The Rover of the Andes_1885,2,undirected
+130,Ballantyne_Red Rooney_1886,Ballantyne_The Big Otter_1887,1,undirected
+131,Ballantyne_Red Rooney_1886,Ballantyne_The Buffalo Runners_1891,5,undirected
+132,Ballantyne_Red Rooney_1886,Ballantyne_The Fugitives_1887,2,undirected
+133,Ballantyne_Red Rooney_1886,Ballantyne_The Giant of the North_1882,6,undirected
+134,Ballantyne_Red Rooney_1886,Ballantyne_The Hot Swamp_1892,3,undirected
+135,Ballantyne_Red Rooney_1886,Ballantyne_The Madman and the Pirate_1883,3,undirected
+136,Ballantyne_Red Rooney_1886,Ballantyne_The Norsemen in the West_1872,3,undirected
+137,Ballantyne_Red Rooney_1886,Ballantyne_The Rover of the Andes_1885,2,undirected
+138,Ballantyne_Red Rooney_1886,Ballantyne_The Thorogood Family_1883,2,undirected
+139,Ballantyne_Red Rooney_1886,Ballantyne_The Walrus Hunters_1893,3,undirected
+140,Ballantyne_Rivers of Ice_1875,Ballantyne_Blown to Bits_1889,4,undirected
+141,Ballantyne_Rivers of Ice_1875,Ballantyne_Post Haste_1880,5,undirected
+142,Ballantyne_Rivers of Ice_1875,Ballantyne_Under the Waves_1876,1,undirected
+143,Ballantyne_Saved by the Lifeboat_1869,Ballantyne_The Iron Horse_1879,3,undirected
+144,Ballantyne_Saved by the Lifeboat_1869,Ballantyne_The Lifeboat_1864,2,undirected
+145,Ballantyne_Saved by the Lifeboat_1869,Ballantyne_The Lighthouse_1865,1,undirected
+146,Ballantyne_Saved by the Lifeboat_1869,Ballatyne_Battles with the Sea_1883,3,undirected
+147,Ballantyne_Shifting Winds_1868,Ballantyne_Fighting the Flames_1867,6,undirected
+148,Ballantyne_Shifting Winds_1868,Ballantyne_Freaks on the Fells_1864,2,undirected
+149,Ballantyne_Shifting Winds_1868,Ballantyne_Philosopher Jack_1879,1,undirected
+150,Ballantyne_Shifting Winds_1868,Ballantyne_Silver Lake_1867,2,undirected
+151,Ballantyne_Shifting Winds_1868,Ballantyne_The Floating Light of the Goodwin Sands_1870,1,undirected
+152,Ballantyne_Shifting Winds_1868,Ballantyne_The Garret and the Garden_1890,1,undirected
+153,Ballantyne_Shifting Winds_1868,Ballantyne_The Red Eric_1861,3,undirected
+154,Ballantyne_Shifting Winds_1868,Ballantyne_The Wild Man of the West_1863,3,undirected
+155,Ballantyne_Shifting Winds_1868,Ballantyne_Under the Waves_1876,5,undirected
+156,Ballantyne_Silver Lake_1867,Ballantyne_Over the Rocky Mountains_1869,1,undirected
+157,Ballantyne_Silver Lake_1867,Ballantyne_Shifting Winds_1868,2,undirected
+158,Ballantyne_Silver Lake_1867,Ballantyne_The Butterfly's Ball_1874,3,undirected
+159,Ballantyne_Silver Lake_1867,Ballantyne_The Coxswain's Bride_1891,3,undirected
+160,Ballantyne_Silver Lake_1867,Ballantyne_The Red Man's Revenge_1880,1,undirected
+161,Ballantyne_Six Months at the Cape_1879,Ballantyne_In the Track of the Troops_1878,1,undirected
+162,Ballantyne_Six Months at the Cape_1879,Ballantyne_The Settler and the Savage_1877,3,undirected
+163,Ballantyne_Six Months at the Cape_1879,Ballantyne_The World of Ice_1859,2,undirected
+164,Ballantyne_Six Months at the Cape_1879,Ballatyne_Battles with the Sea_1883,2,undirected
+165,Ballantyne_Sunk at Sea_1869,Ballantyne_Black Ivory_1873,3,undirected
+166,Ballantyne_Sunk at Sea_1869,Ballantyne_Lost in the Forest_1869,2,undirected
+167,Ballantyne_Sunk at Sea_1869,Ballantyne_The Lighthouse_1865,2,undirected
+168,Ballantyne_Sunk at Sea_1869,Ballantyne_The Red Man's Revenge_1880,1,undirected
+169,Ballantyne_The Battery and the Boiler_1883,Ballantyne_Blown to Bits_1889,6,undirected
+170,Ballantyne_The Battery and the Boiler_1883,Ballantyne_Philosopher Jack_1879,2,undirected
+171,Ballantyne_The Battery and the Boiler_1883,Ballantyne_The Giant of the North_1882,3,undirected
+172,Ballantyne_The Battery and the Boiler_1883,Ballantyne_The Island Queen_1885,2,undirected
+173,Ballantyne_The Battery and the Boiler_1883,Ballantyne_The Lively Poll_1886,3,undirected
+174,Ballantyne_The Battery and the Boiler_1883,Ballantyne_The Lonely Island_1880,1,undirected
+175,Ballantyne_The Battery and the Boiler_1883,Ballantyne_The Madman and the Pirate_1883,2,undirected
+176,Ballantyne_The Battery and the Boiler_1883,Ballantyne_The Rover of the Andes_1885,2,undirected
+177,Ballantyne_The Battle and the Breeze_1869,Ballantyne_The Floating Light of the Goodwin Sands_1870,1,undirected
+178,Ballantyne_The Battle and the Breeze_1869,Ballantyne_The Lighthouse_1865,3,undirected
+179,Ballantyne_The Battle and the Breeze_1869,Ballantyne_The Story of the Rock_1875,2,undirected
+180,Ballantyne_The Big Otter_1887,Ballantyne_Blown to Bits_1889,2,undirected
+181,Ballantyne_The Big Otter_1887,Ballantyne_Red Rooney_1886,1,undirected
+182,Ballantyne_The Big Otter_1887,Ballantyne_The Coral Island_1857,2,undirected
+183,Ballantyne_The Big Otter_1887,Ballantyne_The Gorilla Hunters_1861,3,undirected
+184,Ballantyne_The Big Otter_1887,Ballantyne_The Rover of the Andes_1885,3,undirected
+185,Ballantyne_The Big Otter_1887,Haggard_Allan Quartermain_1887,1,undirected
+186,Ballantyne_The Big Otter_1887,Haggard_King Solomon's Mines_1885,1,undirected
+187,Ballantyne_The Buffalo Runners_1891,Ballantyne_Blue Lights_1888,3,undirected
+188,Ballantyne_The Buffalo Runners_1891,Ballantyne_Jeff Benson_1890,1,undirected
+189,Ballantyne_The Buffalo Runners_1891,Ballantyne_Red Rooney_1886,5,undirected
+190,Ballantyne_The Buffalo Runners_1891,Ballantyne_The Eagle Cliff_1889,2,undirected
+191,Ballantyne_The Buffalo Runners_1891,Ballantyne_The Walrus Hunters_1893,1,undirected
+192,Ballantyne_The Buffalo Runners_1891,Ballantyne_The Young Trawler_1884,1,undirected
+193,Ballantyne_The Butterfly's Ball_1874,Ballantyne_Away in the Wilderness_1863,2,undirected
+194,Ballantyne_The Butterfly's Ball_1874,Ballantyne_Silver Lake_1867,3,undirected
+195,Ballantyne_The Butterfly's Ball_1874,Ballantyne_The Dog Crusoe_1860,1,undirected
+196,Ballantyne_The Cannibal Islands_1869,Ballantyne_The Pioneers_1872,3,undirected
+197,Ballantyne_The Cannibal Islands_1869,Ballantyne_The Settler and the Savage_1877,2,undirected
+198,Ballantyne_The Cannibal Islands_1869,Ballantyne_The World of Ice_1859,1,undirected
+199,Ballantyne_The Cannibal Islands_1869,Ballantyne_Up in the Clouds_1869,1,undirected
+200,Ballantyne_The Coral Island_1857,Ballantyne_Fighting the Whales_1863,2,undirected
+201,Ballantyne_The Coral Island_1857,Ballantyne_The Big Otter_1887,2,undirected
+202,Ballantyne_The Coral Island_1857,Ballantyne_The Gorilla Hunters_1861,5,undirected
+203,Ballantyne_The Coral Island_1857,Ballantyne_The Young Fur-Traders_1856,1,undirected
+204,Ballantyne_The Coxswain's Bride_1891,Ballantyne_Jarwin and Cuffy_1878,2,undirected
+205,Ballantyne_The Coxswain's Bride_1891,Ballantyne_Silver Lake_1867,3,undirected
+206,Ballantyne_The Coxswain's Bride_1891,Ballantyne_The Floating Light of the Goodwin Sands_1870,3,undirected
+207,Ballantyne_The Coxswain's Bride_1891,Ballantyne_The Lively Poll_1886,1,undirected
+208,Ballantyne_The Coxswain's Bride_1891,Ballantyne_The Prairie Chief_1886,2,undirected
+209,Ballantyne_The Coxswain's Bride_1891,Ballantyne_The Red Eric_1861,2,undirected
+210,Ballantyne_The Coxswain's Bride_1891,Ballantyne_The Rover of the Andes_1885,2,undirected
+211,Ballantyne_The Crew of the Water Wagtail_1889,Ballantyne_Blown to Bits_1889,2,undirected
+212,Ballantyne_The Crew of the Water Wagtail_1889,Ballantyne_The Fugitives_1887,4,undirected
+213,Ballantyne_The Crew of the Water Wagtail_1889,Ballantyne_The Island Queen_1885,6,undirected
+214,Ballantyne_The Dog Crusoe_1860,Ballantyne_Lost in the Forest_1869,3,undirected
+215,Ballantyne_The Dog Crusoe_1860,Ballantyne_Martin Rattler_1858,4,undirected
+216,Ballantyne_The Dog Crusoe_1860,Ballantyne_The Butterfly's Ball_1874,1,undirected
+217,Ballantyne_The Dog Crusoe_1860,Ballantyne_The Golden Dream_1861,3,undirected
+218,Ballantyne_The Dog Crusoe_1860,Ballantyne_The World of Ice_1859,4,undirected
+219,Ballantyne_The Eagle Cliff_1889,Ballantyne_Blue Lights_1888,4,undirected
+220,Ballantyne_The Eagle Cliff_1889,Ballantyne_Charlie to the Rescue_1890,3,undirected
+221,Ballantyne_The Eagle Cliff_1889,Ballantyne_Dusty Diamonds Cut and Polished_1884,2,undirected
+222,Ballantyne_The Eagle Cliff_1889,Ballantyne_Philosopher Jack_1879,5,undirected
+223,Ballantyne_The Eagle Cliff_1889,Ballantyne_The Buffalo Runners_1891,2,undirected
+224,Ballantyne_The Eagle Cliff_1889,Ballantyne_The Garret and the Garden_1890,2,undirected
+225,Ballantyne_The Eagle Cliff_1889,Ballantyne_The Hot Swamp_1892,1,undirected
+226,Ballantyne_The Eagle Cliff_1889,Ballantyne_The Middy and the Moors_1888,1,undirected
+227,Ballantyne_The Eagle Cliff_1889,Ballantyne_The Rover of the Andes_1885,6,undirected
+228,Ballantyne_The Eagle Cliff_1889,Ballantyne_Twice Bought_1885,2,undirected
+229,Ballantyne_The Floating Light of the Goodwin Sands_1870,Ballantyne_Jarwin and Cuffy_1878,3,undirected
+230,Ballantyne_The Floating Light of the Goodwin Sands_1870,Ballantyne_Life in the Red Brigade_1873,2,undirected
+231,Ballantyne_The Floating Light of the Goodwin Sands_1870,Ballantyne_Shifting Winds_1868,1,undirected
+232,Ballantyne_The Floating Light of the Goodwin Sands_1870,Ballantyne_The Battle and the Breeze_1869,1,undirected
+233,Ballantyne_The Floating Light of the Goodwin Sands_1870,Ballantyne_The Coxswain's Bride_1891,3,undirected
+234,Ballantyne_The Floating Light of the Goodwin Sands_1870,Ballantyne_The Golden Dream_1861,2,undirected
+235,Ballantyne_The Floating Light of the Goodwin Sands_1870,Ballantyne_The Iron Horse_1879,5,undirected
+236,Ballantyne_The Floating Light of the Goodwin Sands_1870,Ballantyne_The Lifeboat_1864,4,undirected
+237,Ballantyne_The Floating Light of the Goodwin Sands_1870,Ballantyne_The Lighthouse_1865,3,undirected
+238,Ballantyne_The Floating Light of the Goodwin Sands_1870,Ballantyne_The Red Eric_1861,2,undirected
+239,Ballantyne_The Floating Light of the Goodwin Sands_1870,Ballantyne_The Story of the Rock_1875,2,undirected
+240,Ballantyne_The Floating Light of the Goodwin Sands_1870,Ballantyne_Under the Waves_1876,5,undirected
+241,Ballantyne_The Fugitives_1887,Ballantyne_Black Ivory_1873,1,undirected
+242,Ballantyne_The Fugitives_1887,Ballantyne_Red Rooney_1886,2,undirected
+243,Ballantyne_The Fugitives_1887,Ballantyne_The Crew of the Water Wagtail_1889,4,undirected
+244,Ballantyne_The Garret and the Garden_1890,Ballantyne_Post Haste_1880,3,undirected
+245,Ballantyne_The Garret and the Garden_1890,Ballantyne_Shifting Winds_1868,1,undirected
+246,Ballantyne_The Garret and the Garden_1890,Ballantyne_The Eagle Cliff_1889,2,undirected
+247,Ballantyne_The Giant of the North_1882,Ballantyne_Blown to Bits_1889,1,undirected
+248,Ballantyne_The Giant of the North_1882,Ballantyne_Erling the Bold_ 1869,1,undirected
+249,Ballantyne_The Giant of the North_1882,Ballantyne_Red Rooney_1886,6,undirected
+250,Ballantyne_The Giant of the North_1882,Ballantyne_The Battery and the Boiler_1883,3,undirected
+251,Ballantyne_The Giant of the North_1882,Ballantyne_The Island Queen_1885,1,undirected
+252,Ballantyne_The Giant of the North_1882,Ballantyne_The Lonely Island_1880,3,undirected
+253,Ballantyne_The Giant of the North_1882,Ballantyne_The Norsemen in the West_1872,1,undirected
+254,Ballantyne_The Giant of the North_1882,Ballantyne_The Thorogood Family_1883,1,undirected
+255,Ballantyne_The Giant of the North_1882,Ballantyne_The Walrus Hunters_1893,2,undirected
+256,Ballantyne_The Golden Dream_1861,Ballantyne_Fort Desolation_1873,3,undirected
+257,Ballantyne_The Golden Dream_1861,Ballantyne_Hunting the Lions_1869,1,undirected
+258,Ballantyne_The Golden Dream_1861,Ballantyne_Over the Rocky Mountains_1869,3,undirected
+259,Ballantyne_The Golden Dream_1861,Ballantyne_The Dog Crusoe_1860,3,undirected
+260,Ballantyne_The Golden Dream_1861,Ballantyne_The Floating Light of the Goodwin Sands_1870,2,undirected
+261,Ballantyne_The Golden Dream_1861,Ballantyne_The Wild Man of the West_1863,3,undirected
+262,Ballantyne_The Golden Dream_1861,Ballantyne_The Young Fur-Traders_1856,6,undirected
+263,Ballantyne_The Gorilla Hunters_1861,Ballantyne_Blown to Bits_1889,1,undirected
+264,Ballantyne_The Gorilla Hunters_1861,Ballantyne_The Big Otter_1887,3,undirected
+265,Ballantyne_The Gorilla Hunters_1861,Ballantyne_The Coral Island_1857,5,undirected
+266,Ballantyne_The Hot Swamp_1892,Ballantyne_Charlie to the Rescue_1890,2,undirected
+267,Ballantyne_The Hot Swamp_1892,Ballantyne_Red Rooney_1886,3,undirected
+268,Ballantyne_The Hot Swamp_1892,Ballantyne_The Eagle Cliff_1889,1,undirected
+269,Ballantyne_The Iron Horse_1879,Ballantyne_Black Ivory_1873,1,undirected
+270,Ballantyne_The Iron Horse_1879,Ballantyne_Chasing the Sun_1864,3,undirected
+271,Ballantyne_The Iron Horse_1879,Ballantyne_Deep Down_1868,1,undirected
+272,Ballantyne_The Iron Horse_1879,Ballantyne_Hunting the Lions_1869,2,undirected
+273,Ballantyne_The Iron Horse_1879,Ballantyne_Saved by the Lifeboat_1869,3,undirected
+274,Ballantyne_The Iron Horse_1879,Ballantyne_The Floating Light of the Goodwin Sands_1870,5,undirected
+275,Ballantyne_The Iron Horse_1879,Ballantyne_Under the Waves_1876,2,undirected
+276,Ballantyne_The Island Queen_1885,Ballantyne_The Battery and the Boiler_1883,2,undirected
+277,Ballantyne_The Island Queen_1885,Ballantyne_The Crew of the Water Wagtail_1889,6,undirected
+278,Ballantyne_The Island Queen_1885,Ballantyne_The Giant of the North_1882,1,undirected
+279,Ballantyne_The Lifeboat_1864,Ballantyne_Deep Down_1868,4,undirected
+280,Ballantyne_The Lifeboat_1864,Ballantyne_Gascoyne_1864,1,undirected
+281,Ballantyne_The Lifeboat_1864,Ballantyne_Saved by the Lifeboat_1869,2,undirected
+282,Ballantyne_The Lifeboat_1864,Ballantyne_The Floating Light of the Goodwin Sands_1870,4,undirected
+283,Ballantyne_The Lifeboat_1864,Ballantyne_The Lighthouse_1865,3,undirected
+284,Ballantyne_The Lighthouse_1865,Ballantyne_Away in the Wilderness_1863,2,undirected
+285,Ballantyne_The Lighthouse_1865,Ballantyne_Fast in the Ice_1863,1,undirected
+286,Ballantyne_The Lighthouse_1865,Ballantyne_Saved by the Lifeboat_1869,1,undirected
+287,Ballantyne_The Lighthouse_1865,Ballantyne_Sunk at Sea_1869,2,undirected
+288,Ballantyne_The Lighthouse_1865,Ballantyne_The Battle and the Breeze_1869,3,undirected
+289,Ballantyne_The Lighthouse_1865,Ballantyne_The Floating Light of the Goodwin Sands_1870,3,undirected
+290,Ballantyne_The Lighthouse_1865,Ballantyne_The Lifeboat_1864,3,undirected
+291,Ballantyne_The Lighthouse_1865,Ballantyne_The Red Man's Revenge_1880,2,undirected
+292,Ballantyne_The Lighthouse_1865,Ballantyne_The Story of the Rock_1875,4,undirected
+293,Ballantyne_The Lighthouse_1865,Ballantyne_The World of Ice_1859,1,undirected
+294,Ballantyne_The Lively Poll_1886,Ballantyne_The Battery and the Boiler_1883,3,undirected
+295,Ballantyne_The Lively Poll_1886,Ballantyne_The Coxswain's Bride_1891,1,undirected
+296,Ballantyne_The Lively Poll_1886,Ballantyne_The Young Trawler_1884,2,undirected
+297,Ballantyne_The Lonely Island_1880,Ballantyne_The Battery and the Boiler_1883,1,undirected
+298,Ballantyne_The Lonely Island_1880,Ballantyne_The Giant of the North_1882,3,undirected
+299,Ballantyne_The Lonely Island_1880,Ballantyne_Under the Waves_1876,2,undirected
+300,Ballantyne_The Madman and the Pirate_1883,Ballantyne_Red Rooney_1886,3,undirected
+301,Ballantyne_The Madman and the Pirate_1883,Ballantyne_The Battery and the Boiler_1883,2,undirected
+302,Ballantyne_The Madman and the Pirate_1883,Ballantyne_The Rover of the Andes_1885,1,undirected
+303,Ballantyne_The Middy and the Moors_1888,Ballantyne_Charlie to the Rescue_1890,2,undirected
+304,Ballantyne_The Middy and the Moors_1888,Ballantyne_My Doggie and I_1881,2,undirected
+305,Ballantyne_The Middy and the Moors_1888,Ballantyne_The Eagle Cliff_1889,1,undirected
+306,Ballantyne_The Middy and the Moors_1888,Ballantyne_Twice Bought_1885,4,undirected
+307,Ballantyne_The Norsemen in the West_1872,Ballantyne_Black Ivory_1873,2,undirected
+308,Ballantyne_The Norsemen in the West_1872,Ballantyne_Erling the Bold_ 1869,2,undirected
+309,Ballantyne_The Norsemen in the West_1872,Ballantyne_Red Rooney_1886,3,undirected
+310,Ballantyne_The Norsemen in the West_1872,Ballantyne_The Giant of the North_1882,1,undirected
+311,Ballantyne_The Ocean and its Wonders_1874,Ballantyne_Man on the Ocean_1863,6,undirected
+312,Ballantyne_The Ocean and its Wonders_1874,Ballantyne_Up in the Clouds_1869,5,undirected
+313,Ballantyne_The Ocean and its Wonders_1874,Ballatyne_Battles with the Sea_1883,2,undirected
+314,Ballantyne_The Pioneers_1872,Ballantyne_Black Ivory_1873,1,undirected
+315,Ballantyne_The Pioneers_1872,Ballantyne_The Cannibal Islands_1869,3,undirected
+316,Ballantyne_The Pioneers_1872,Ballantyne_The Settler and the Savage_1877,3,undirected
+317,Ballantyne_The Pioneers_1872,Ballantyne_The World of Ice_1859,2,undirected
+318,Ballantyne_The Pirate City_1874,Ballantyne_Black Ivory_1873,6,undirected
+319,Ballantyne_The Pirate City_1874,Ballantyne_Hunted and Harried_1892,2,undirected
+320,Ballantyne_The Pirate City_1874,Ballantyne_In the Track of the Troops_1878,2,undirected
+321,Ballantyne_The Pirate City_1874,Ballantyne_The Settler and the Savage_1877,2,undirected
+322,Ballantyne_The Pirate City_1874,Ballantyne_Under the Waves_1876,2,undirected
+323,Ballantyne_The Prairie Chief_1886,Ballantyne_The Coxswain's Bride_1891,2,undirected
+324,Ballantyne_The Prairie Chief_1886,Ballantyne_The Rover of the Andes_1885,3,undirected
+325,Ballantyne_The Prairie Chief_1886,Ballantyne_The Walrus Hunters_1893,1,undirected
+326,Ballantyne_The Red Eric_1861,Ballantyne_Freaks on the Fells_1864,1,undirected
+327,Ballantyne_The Red Eric_1861,Ballantyne_Shifting Winds_1868,3,undirected
+328,Ballantyne_The Red Eric_1861,Ballantyne_The Coxswain's Bride_1891,2,undirected
+329,Ballantyne_The Red Eric_1861,Ballantyne_The Floating Light of the Goodwin Sands_1870,2,undirected
+330,Ballantyne_The Red Eric_1861,Ballantyne_The Story of the Rock_1875,1,undirected
+331,Ballantyne_The Red Eric_1861,Haggard_Allan Quartermain_1887,2,undirected
+332,Ballantyne_The Red Man's Revenge_1880,Ballantyne_Freaks on the Fells_1864,3,undirected
+333,Ballantyne_The Red Man's Revenge_1880,Ballantyne_Jarwin and Cuffy_1878,1,undirected
+334,Ballantyne_The Red Man's Revenge_1880,Ballantyne_Silver Lake_1867,1,undirected
+335,Ballantyne_The Red Man's Revenge_1880,Ballantyne_Sunk at Sea_1869,1,undirected
+336,Ballantyne_The Red Man's Revenge_1880,Ballantyne_The Lighthouse_1865,2,undirected
+337,Ballantyne_The Red Man's Revenge_1880,Ballantyne_The Rover of the Andes_1885,1,undirected
+338,Ballantyne_The Red Man's Revenge_1880,Ballantyne_The Settler and the Savage_1877,6,undirected
+339,Ballantyne_The Rover of the Andes_1885,Ballantyne_Blown to Bits_1889,4,undirected
+340,Ballantyne_The Rover of the Andes_1885,Ballantyne_Gascoyne_1864,3,undirected
+341,Ballantyne_The Rover of the Andes_1885,Ballantyne_Post Haste_1880,2,undirected
+342,Ballantyne_The Rover of the Andes_1885,Ballantyne_Red Rooney_1886,2,undirected
+343,Ballantyne_The Rover of the Andes_1885,Ballantyne_The Battery and the Boiler_1883,2,undirected
+344,Ballantyne_The Rover of the Andes_1885,Ballantyne_The Big Otter_1887,3,undirected
+345,Ballantyne_The Rover of the Andes_1885,Ballantyne_The Coxswain's Bride_1891,2,undirected
+346,Ballantyne_The Rover of the Andes_1885,Ballantyne_The Eagle Cliff_1889,6,undirected
+347,Ballantyne_The Rover of the Andes_1885,Ballantyne_The Madman and the Pirate_1883,1,undirected
+348,Ballantyne_The Rover of the Andes_1885,Ballantyne_The Prairie Chief_1886,3,undirected
+349,Ballantyne_The Rover of the Andes_1885,Ballantyne_The Red Man's Revenge_1880,1,undirected
+350,Ballantyne_The Rover of the Andes_1885,Ballantyne_The Wild Man of the West_1863,1,undirected
+351,Ballantyne_The Rover of the Andes_1885,Ballantyne_Wrecked But Not Ruined_1895,1,undirected
+352,Ballantyne_The Settler and the Savage_1877,Ballantyne_Black Ivory_1873,1,undirected
+353,Ballantyne_The Settler and the Savage_1877,Ballantyne_Six Months at the Cape_1879,3,undirected
+354,Ballantyne_The Settler and the Savage_1877,Ballantyne_The Cannibal Islands_1869,2,undirected
+355,Ballantyne_The Settler and the Savage_1877,Ballantyne_The Pioneers_1872,3,undirected
+356,Ballantyne_The Settler and the Savage_1877,Ballantyne_The Pirate City_1874,2,undirected
+357,Ballantyne_The Settler and the Savage_1877,Ballantyne_The Red Man's Revenge_1880,6,undirected
+358,Ballantyne_The Settler and the Savage_1877,Ballantyne_Ungava_1857,1,undirected
+359,Ballantyne_The Story of the Rock_1875,Ballantyne_The Battle and the Breeze_1869,2,undirected
+360,Ballantyne_The Story of the Rock_1875,Ballantyne_The Floating Light of the Goodwin Sands_1870,2,undirected
+361,Ballantyne_The Story of the Rock_1875,Ballantyne_The Lighthouse_1865,4,undirected
+362,Ballantyne_The Story of the Rock_1875,Ballantyne_The Red Eric_1861,1,undirected
+363,Ballantyne_The Thorogood Family_1883,Ballantyne_Philosopher Jack_1879,3,undirected
+364,Ballantyne_The Thorogood Family_1883,Ballantyne_Red Rooney_1886,2,undirected
+365,Ballantyne_The Thorogood Family_1883,Ballantyne_The Giant of the North_1882,1,undirected
+366,Ballantyne_The Walrus Hunters_1893,Ballantyne_Erling the Bold_ 1869,3,undirected
+367,Ballantyne_The Walrus Hunters_1893,Ballantyne_Red Rooney_1886,3,undirected
+368,Ballantyne_The Walrus Hunters_1893,Ballantyne_The Buffalo Runners_1891,1,undirected
+369,Ballantyne_The Walrus Hunters_1893,Ballantyne_The Giant of the North_1882,2,undirected
+370,Ballantyne_The Walrus Hunters_1893,Ballantyne_The Prairie Chief_1886,1,undirected
+371,Ballantyne_The Wild Man of the West_1863,Ballantyne_Fort Desolation_1873,2,undirected
+372,Ballantyne_The Wild Man of the West_1863,Ballantyne_Shifting Winds_1868,3,undirected
+373,Ballantyne_The Wild Man of the West_1863,Ballantyne_The Golden Dream_1861,3,undirected
+374,Ballantyne_The Wild Man of the West_1863,Ballantyne_The Rover of the Andes_1885,1,undirected
+375,Ballantyne_The Wild Man of the West_1863,Ballantyne_The Young Fur-Traders_1856,1,undirected
+376,Ballantyne_The World of Ice_1859,Ballantyne_Away in the Wilderness_1863,1,undirected
+377,Ballantyne_The World of Ice_1859,Ballantyne_Fast in the Ice_1863,2,undirected
+378,Ballantyne_The World of Ice_1859,Ballantyne_Six Months at the Cape_1879,2,undirected
+379,Ballantyne_The World of Ice_1859,Ballantyne_The Cannibal Islands_1869,1,undirected
+380,Ballantyne_The World of Ice_1859,Ballantyne_The Dog Crusoe_1860,4,undirected
+381,Ballantyne_The World of Ice_1859,Ballantyne_The Lighthouse_1865,1,undirected
+382,Ballantyne_The World of Ice_1859,Ballantyne_The Pioneers_1872,2,undirected
+383,Ballantyne_The World of Ice_1859,Ballantyne_Ungava_1857,6,undirected
+384,Ballantyne_The Young Fur-Traders_1856,Ballantyne_Deep Down_1868,2,undirected
+385,Ballantyne_The Young Fur-Traders_1856,Ballantyne_Martin Rattler_1858,2,undirected
+386,Ballantyne_The Young Fur-Traders_1856,Ballantyne_The Coral Island_1857,1,undirected
+387,Ballantyne_The Young Fur-Traders_1856,Ballantyne_The Golden Dream_1861,6,undirected
+388,Ballantyne_The Young Fur-Traders_1856,Ballantyne_The Wild Man of the West_1863,1,undirected
+389,Ballantyne_The Young Trawler_1884,Ballantyne_Charlie to the Rescue_1890,3,undirected
+390,Ballantyne_The Young Trawler_1884,Ballantyne_Dusty Diamonds Cut and Polished_1884,6,undirected
+391,Ballantyne_The Young Trawler_1884,Ballantyne_Jeff Benson_1890,3,undirected
+392,Ballantyne_The Young Trawler_1884,Ballantyne_My Doggie and I_1881,1,undirected
+393,Ballantyne_The Young Trawler_1884,Ballantyne_The Buffalo Runners_1891,1,undirected
+394,Ballantyne_The Young Trawler_1884,Ballantyne_The Lively Poll_1886,2,undirected
+395,Ballantyne_Twice Bought_1885,Ballantyne_Charlie to the Rescue_1890,3,undirected
+396,Ballantyne_Twice Bought_1885,Ballantyne_The Eagle Cliff_1889,2,undirected
+397,Ballantyne_Twice Bought_1885,Ballantyne_The Middy and the Moors_1888,4,undirected
+398,Ballantyne_Under the Waves_1876,Ballantyne_Black Ivory_1873,2,undirected
+399,Ballantyne_Under the Waves_1876,Ballantyne_Digging for Gold_1869,1,undirected
+400,Ballantyne_Under the Waves_1876,Ballantyne_Fighting the Flames_1867,2,undirected
+401,Ballantyne_Under the Waves_1876,Ballantyne_In the Track of the Troops_1878,3,undirected
+402,Ballantyne_Under the Waves_1876,Ballantyne_Life in the Red Brigade_1873,3,undirected
+403,Ballantyne_Under the Waves_1876,Ballantyne_Rivers of Ice_1875,1,undirected
+404,Ballantyne_Under the Waves_1876,Ballantyne_Shifting Winds_1868,5,undirected
+405,Ballantyne_Under the Waves_1876,Ballantyne_The Floating Light of the Goodwin Sands_1870,5,undirected
+406,Ballantyne_Under the Waves_1876,Ballantyne_The Iron Horse_1879,2,undirected
+407,Ballantyne_Under the Waves_1876,Ballantyne_The Lonely Island_1880,2,undirected
+408,Ballantyne_Under the Waves_1876,Ballantyne_The Pirate City_1874,2,undirected
+409,Ballantyne_Ungava_1857,Ballantyne_Martin Rattler_1858,3,undirected
+410,Ballantyne_Ungava_1857,Ballantyne_The Settler and the Savage_1877,1,undirected
+411,Ballantyne_Ungava_1857,Ballantyne_The World of Ice_1859,6,undirected
+412,Ballantyne_Up in the Clouds_1869,Ballantyne_Man on the Ocean_1863,3,undirected
+413,Ballantyne_Up in the Clouds_1869,Ballantyne_The Cannibal Islands_1869,1,undirected
+414,Ballantyne_Up in the Clouds_1869,Ballantyne_The Ocean and its Wonders_1874,5,undirected
+415,Ballantyne_Wrecked But Not Ruined_1895,Ballantyne_Blown to Bits_1889,3,undirected
+416,Ballantyne_Wrecked But Not Ruined_1895,Ballantyne_Philosopher Jack_1879,2,undirected
+417,Ballantyne_Wrecked But Not Ruined_1895,Ballantyne_The Rover of the Andes_1885,1,undirected
+418,Ballatyne_Battles with the Sea_1883,Ballantyne_Man on the Ocean_1863,2,undirected
+419,Ballatyne_Battles with the Sea_1883,Ballantyne_Saved by the Lifeboat_1869,3,undirected
+420,Ballatyne_Battles with the Sea_1883,Ballantyne_Six Months at the Cape_1879,2,undirected
+421,Ballatyne_Battles with the Sea_1883,Ballantyne_The Ocean and its Wonders_1874,2,undirected
+422,Haggard_A Tale of Three Lions_1887,Haggard_Allan Quartermain_1887,2,undirected
+423,Haggard_A Tale of Three Lions_1887,Haggard_Hunter Quatermain's Story_,3,undirected
+424,Haggard_A Tale of Three Lions_1887,Haggard_Long Odds_,3,undirected
+425,Haggard_A Tale of Three Lions_1887,Haggard_Maiwa's Revenge_1888,6,undirected
+426,Haggard_Allan's Wife_1889,Haggard_Allan Quartermain_1887,3,undirected
+427,Haggard_Allan's Wife_1889,Haggard_Jess_1887,1,undirected
+428,Haggard_Allan's Wife_1889,Haggard_King Solomon's Mines_1885,2,undirected
+429,Haggard_Allan's Wife_1889,Haggard_Maiwa's Revenge_1888,2,undirected
+430,Haggard_Allan and the Holy Flower_1915,Haggard_Doctor Therne_1898,2,undirected
+431,Haggard_Allan and the Holy Flower_1915,Haggard_Finished_1917,2,undirected
+432,Haggard_Allan and the Holy Flower_1915,Haggard_King Solomon's Mines_1885,2,undirected
+433,Haggard_Allan and the Holy Flower_1915,Haggard_Queen Sheba's Ring_1910,5,undirected
+434,Haggard_Allan and the Holy Flower_1915,Haggard_The Ivory Child_1916,6,undirected
+435,Haggard_Allan Quartermain_1887,Ballantyne_The Big Otter_1887,1,undirected
+436,Haggard_Allan Quartermain_1887,Ballantyne_The Red Eric_1861,2,undirected
+437,Haggard_Allan Quartermain_1887,Haggard_A Tale of Three Lions_1887,2,undirected
+438,Haggard_Allan Quartermain_1887,Haggard_Allan's Wife_1889,3,undirected
+439,Haggard_Allan Quartermain_1887,Haggard_Hunter Quatermain's Story_,3,undirected
+440,Haggard_Allan Quartermain_1887,Haggard_King Solomon's Mines_1885,6,undirected
+441,Haggard_Allan Quartermain_1887,Haggard_Maiwa's Revenge_1888,1,undirected
+442,Haggard_Ayesha_1905,Haggard_Cleopatra_1889,3,undirected
+443,Haggard_Ayesha_1905,Haggard_Montezuma's Daughter_1893,2,undirected
+444,Haggard_Ayesha_1905,Haggard_The Ancient Allan_1920,3,undirected
+445,Haggard_Ayesha_1905,Haggard_The Virgin of the Sun_1922,1,undirected
+446,Haggard_Beatrice_1890,Haggard_Colonel Quaritch_1889,5,undirected
+447,Haggard_Beatrice_1890,Haggard_Dawn_1884,4,undirected
+448,Haggard_Beatrice_1890,Haggard_Stella Fregelius_1903,1,undirected
+449,Haggard_Benita_1906,Haggard_Swallow_1899,5,undirected
+450,Haggard_Benita_1906,Haggard_the Ghost Kings_1908,6,undirected
+451,Haggard_Benita_1906,Haggard_The People of the Mist_1894,2,undirected
+452,Haggard_Benita_1906,Haggard_The Yellow God_1908,3,undirected
+453,Haggard_Black Heart and White Heart_1900,Haggard_Lysbeth_1901,3,undirected
+454,Haggard_Black Heart and White Heart_1900,Haggard_Pearl-Maiden_1903,1,undirected
+455,Haggard_Black Heart and White Heart_1900,Haggard_The People of the Mist_1894,2,undirected
+456,Haggard_Child of Storm_1913,Haggard_Finished_1917,3,undirected
+457,Haggard_Child of Storm_1913,Haggard_Marie_1912,4,undirected
+458,Haggard_Child of Storm_1913,Haggard_Moon of Israel_1918,1,undirected
+459,Haggard_Child of Storm_1913,Haggard_The Ancient Allan_1920,1,undirected
+460,Haggard_Cleopatra_1889,Haggard_Ayesha_1905,3,undirected
+461,Haggard_Cleopatra_1889,Haggard_Eric Brighteyes_1891,2,undirected
+462,Haggard_Cleopatra_1889,Haggard_Montezuma's Daughter_1893,2,undirected
+463,Haggard_Cleopatra_1889,Haggard_Morning Star_1910,1,undirected
+464,Haggard_Colonel Quaritch_1889,Haggard_Beatrice_1890,5,undirected
+465,Haggard_Colonel Quaritch_1889,Haggard_Dawn_1884,6,undirected
+466,Haggard_Colonel Quaritch_1889,Haggard_Jess_1887,1,undirected
+467,Haggard_Colonel Quaritch_1889,Haggard_Mr. Meeson's Will_1888,1,undirected
+468,Haggard_Colonel Quaritch_1889,Haggard_Stella Fregelius_1903,1,undirected
+469,Haggard_Dawn_1884,Haggard_Beatrice_1890,4,undirected
+470,Haggard_Dawn_1884,Haggard_Colonel Quaritch_1889,6,undirected
+471,Haggard_Dawn_1884,Haggard_Stella Fregelius_1903,1,undirected
+472,Haggard_Doctor Therne_1898,Haggard_Allan and the Holy Flower_1915,2,undirected
+473,Haggard_Doctor Therne_1898,Haggard_Smith and the Pharaohs_1920,1,undirected
+474,Haggard_Doctor Therne_1898,Haggard_The Ivory Child_1916,3,undirected
+475,Haggard_Elissa_1900,Haggard_Morning Star_1910,2,undirected
+476,Haggard_Elissa_1900,Haggard_Pearl-Maiden_1903,1,undirected
+477,Haggard_Elissa_1900,Haggard_The Wizard_1896,6,undirected
+478,Haggard_Eric Brighteyes_1891,Haggard_Cleopatra_1889,2,undirected
+479,Haggard_Eric Brighteyes_1891,Haggard_Nada the Lily_1892,3,undirected
+480,Haggard_Eric Brighteyes_1891,Haggard_The Brethren_1904,1,undirected
+481,Haggard_Fair Margaret_1907,Haggard_Lysbeth_1901,3,undirected
+482,Haggard_Fair Margaret_1907,Haggard_Pearl-Maiden_1903,1,undirected
+483,Haggard_Fair Margaret_1907,Haggard_the Ghost Kings_1908,1,undirected
+484,Haggard_Fair Margaret_1907,Haggard_The Lady of Blossholme_1909,6,undirected
+485,Haggard_Fair Margaret_1907,Haggard_The Yellow God_1908,1,undirected
+486,Haggard_Finished_1917,Haggard_Allan and the Holy Flower_1915,2,undirected
+487,Haggard_Finished_1917,Haggard_Child of Storm_1913,3,undirected
+488,Haggard_Finished_1917,Haggard_Marie_1912,6,undirected
+489,Haggard_Finished_1917,Haggard_She and Allan_1921,5,undirected
+490,Haggard_Finished_1917,Haggard_The Ivory Child_1916,1,undirected
+491,Haggard_Finished_1917,Haggard_The Mahatma and the Hare_1911,3,undirected
+492,Haggard_Finished_1917,Haggard_The Virgin of the Sun_1922,1,undirected
+493,Haggard_Finished_1917,Haggard_When the World Shook_1919,1,undirected
+494,Haggard_Hunter Quatermain's Story_,Haggard_A Tale of Three Lions_1887,3,undirected
+495,Haggard_Hunter Quatermain's Story_,Haggard_Allan Quartermain_1887,3,undirected
+496,Haggard_Hunter Quatermain's Story_,Haggard_Long Odds_,1,undirected
+497,Haggard_Hunter Quatermain's Story_,Haggard_Maiwa's Revenge_1888,1,undirected
+498,Haggard_Jess_1887,Haggard_Allan's Wife_1889,1,undirected
+499,Haggard_Jess_1887,Haggard_Colonel Quaritch_1889,1,undirected
+500,Haggard_Jess_1887,Haggard_Mr. Meeson's Will_1888,6,undirected
+501,Haggard_Jess_1887,Haggard_Smith and the Pharaohs_1920,2,undirected
+502,Haggard_King Solomon's Mines_1885,Ballantyne_The Big Otter_1887,1,undirected
+503,Haggard_King Solomon's Mines_1885,Haggard_Allan's Wife_1889,2,undirected
+504,Haggard_King Solomon's Mines_1885,Haggard_Allan and the Holy Flower_1915,2,undirected
+505,Haggard_King Solomon's Mines_1885,Haggard_Allan Quartermain_1887,6,undirected
+506,Haggard_Long Odds_,Haggard_A Tale of Three Lions_1887,3,undirected
+507,Haggard_Long Odds_,Haggard_Hunter Quatermain's Story_,1,undirected
+508,Haggard_Long Odds_,Haggard_Maiwa's Revenge_1888,2,undirected
+509,Haggard_Love Eternal_1918,Haggard_Smith and the Pharaohs_1920,5,undirected
+510,Haggard_Love Eternal_1918,Haggard_Stella Fregelius_1903,4,undirected
+511,Haggard_Love Eternal_1918,Haggard_When the World Shook_1919,1,undirected
+512,Haggard_Lysbeth_1901,Haggard_Black Heart and White Heart_1900,3,undirected
+513,Haggard_Lysbeth_1901,Haggard_Fair Margaret_1907,3,undirected
+514,Haggard_Lysbeth_1901,Haggard_Pearl-Maiden_1903,4,undirected
+515,Haggard_Lysbeth_1901,Haggard_Smith and the Pharaohs_1920,1,undirected
+516,Haggard_Lysbeth_1901,Haggard_Stella Fregelius_1903,1,undirected
+517,Haggard_Lysbeth_1901,Haggard_Swallow_1899,1,undirected
+518,Haggard_Lysbeth_1901,Haggard_The People of the Mist_1894,5,undirected
+519,Haggard_Lysbeth_1901,Haggard_The Yellow God_1908,2,undirected
+520,Haggard_Maiwa's Revenge_1888,Haggard_A Tale of Three Lions_1887,6,undirected
+521,Haggard_Maiwa's Revenge_1888,Haggard_Allan's Wife_1889,2,undirected
+522,Haggard_Maiwa's Revenge_1888,Haggard_Allan Quartermain_1887,1,undirected
+523,Haggard_Maiwa's Revenge_1888,Haggard_Hunter Quatermain's Story_,1,undirected
+524,Haggard_Maiwa's Revenge_1888,Haggard_Long Odds_,2,undirected
+525,Haggard_Marie_1912,Haggard_Child of Storm_1913,4,undirected
+526,Haggard_Marie_1912,Haggard_Finished_1917,6,undirected
+527,Haggard_Marie_1912,Haggard_The Ancient Allan_1920,2,undirected
+528,Haggard_Marie_1912,Haggard_The Mahatma and the Hare_1911,2,undirected
+529,Haggard_Montezuma's Daughter_1893,Haggard_Ayesha_1905,2,undirected
+530,Haggard_Montezuma's Daughter_1893,Haggard_Cleopatra_1889,2,undirected
+531,Haggard_Montezuma's Daughter_1893,Haggard_Nada the Lily_1892,3,undirected
+532,Haggard_Montezuma's Daughter_1893,Haggard_The Ancient Allan_1920,2,undirected
+533,Haggard_Montezuma's Daughter_1893,Haggard_The People of the Mist_1894,1,undirected
+534,Haggard_Montezuma's Daughter_1893,Haggard_The Virgin of the Sun_1922,3,undirected
+535,Haggard_Moon of Israel_1918,Haggard_Child of Storm_1913,1,undirected
+536,Haggard_Moon of Israel_1918,Haggard_The Ancient Allan_1920,2,undirected
+537,Haggard_Moon of Israel_1918,Haggard_The Wanderer's Necklace_1914,6,undirected
+538,Haggard_Morning Star_1910,Haggard_Cleopatra_1889,1,undirected
+539,Haggard_Morning Star_1910,Haggard_Elissa_1900,2,undirected
+540,Haggard_Morning Star_1910,Haggard_Nada the Lily_1892,2,undirected
+541,Haggard_Morning Star_1910,Haggard_Pearl-Maiden_1903,2,undirected
+542,Haggard_Morning Star_1910,Haggard_The Brethren_1904,5,undirected
+543,Haggard_Morning Star_1910,Haggard_The Lady of Blossholme_1909,4,undirected
+544,Haggard_Morning Star_1910,Haggard_The Wizard_1896,1,undirected
+545,Haggard_Mr. Meeson's Will_1888,Haggard_Colonel Quaritch_1889,1,undirected
+546,Haggard_Mr. Meeson's Will_1888,Haggard_Jess_1887,6,undirected
+547,Haggard_Mr. Meeson's Will_1888,Haggard_Smith and the Pharaohs_1920,2,undirected
+548,Haggard_Nada the Lily_1892,Haggard_Eric Brighteyes_1891,3,undirected
+549,Haggard_Nada the Lily_1892,Haggard_Montezuma's Daughter_1893,3,undirected
+550,Haggard_Nada the Lily_1892,Haggard_Morning Star_1910,2,undirected
+551,Haggard_Nada the Lily_1892,Haggard_The Brethren_1904,1,undirected
+552,Haggard_Pearl-Maiden_1903,Haggard_Black Heart and White Heart_1900,1,undirected
+553,Haggard_Pearl-Maiden_1903,Haggard_Elissa_1900,1,undirected
+554,Haggard_Pearl-Maiden_1903,Haggard_Fair Margaret_1907,1,undirected
+555,Haggard_Pearl-Maiden_1903,Haggard_Lysbeth_1901,4,undirected
+556,Haggard_Pearl-Maiden_1903,Haggard_Morning Star_1910,2,undirected
+557,Haggard_Pearl-Maiden_1903,Haggard_Red Eve_1911,2,undirected
+558,Haggard_Pearl-Maiden_1903,Haggard_The Brethren_1904,1,undirected
+559,Haggard_Pearl-Maiden_1903,Haggard_The People of the Mist_1894,6,undirected
+560,Haggard_Queen Sheba's Ring_1910,Haggard_Allan and the Holy Flower_1915,5,undirected
+561,Haggard_Queen Sheba's Ring_1910,Haggard_The Ancient Allan_1920,1,undirected
+562,Haggard_Queen Sheba's Ring_1910,Haggard_The Ivory Child_1916,2,undirected
+563,Haggard_Red Eve_1911,Haggard_Pearl-Maiden_1903,2,undirected
+564,Haggard_Red Eve_1911,Haggard_The Brethren_1904,3,undirected
+565,Haggard_Red Eve_1911,Haggard_The Lady of Blossholme_1909,5,undirected
+566,Haggard_She and Allan_1921,Haggard_Finished_1917,5,undirected
+567,Haggard_She and Allan_1921,Haggard_The Ancient Allan_1920,3,undirected
+568,Haggard_She and Allan_1921,Haggard_The Virgin of the Sun_1922,2,undirected
+569,Haggard_She and Allan_1921,Haggard_When the World Shook_1919,4,undirected
+570,Haggard_Smith and the Pharaohs_1920,Haggard_Doctor Therne_1898,1,undirected
+571,Haggard_Smith and the Pharaohs_1920,Haggard_Jess_1887,2,undirected
+572,Haggard_Smith and the Pharaohs_1920,Haggard_Love Eternal_1918,5,undirected
+573,Haggard_Smith and the Pharaohs_1920,Haggard_Lysbeth_1901,1,undirected
+574,Haggard_Smith and the Pharaohs_1920,Haggard_Mr. Meeson's Will_1888,2,undirected
+575,Haggard_Smith and the Pharaohs_1920,Haggard_Stella Fregelius_1903,6,undirected
+576,Haggard_Stella Fregelius_1903,Haggard_Beatrice_1890,1,undirected
+577,Haggard_Stella Fregelius_1903,Haggard_Colonel Quaritch_1889,1,undirected
+578,Haggard_Stella Fregelius_1903,Haggard_Dawn_1884,1,undirected
+579,Haggard_Stella Fregelius_1903,Haggard_Love Eternal_1918,4,undirected
+580,Haggard_Stella Fregelius_1903,Haggard_Lysbeth_1901,1,undirected
+581,Haggard_Stella Fregelius_1903,Haggard_Smith and the Pharaohs_1920,6,undirected
+582,Haggard_Swallow_1899,Haggard_Benita_1906,5,undirected
+583,Haggard_Swallow_1899,Haggard_Lysbeth_1901,1,undirected
+584,Haggard_Swallow_1899,Haggard_the Ghost Kings_1908,2,undirected
+585,Haggard_Swallow_1899,Haggard_The People of the Mist_1894,2,undirected
+586,Haggard_The Ancient Allan_1920,Haggard_Ayesha_1905,3,undirected
+587,Haggard_The Ancient Allan_1920,Haggard_Child of Storm_1913,1,undirected
+588,Haggard_The Ancient Allan_1920,Haggard_Marie_1912,2,undirected
+589,Haggard_The Ancient Allan_1920,Haggard_Montezuma's Daughter_1893,2,undirected
+590,Haggard_The Ancient Allan_1920,Haggard_Moon of Israel_1918,2,undirected
+591,Haggard_The Ancient Allan_1920,Haggard_Queen Sheba's Ring_1910,1,undirected
+592,Haggard_The Ancient Allan_1920,Haggard_She and Allan_1921,3,undirected
+593,Haggard_The Ancient Allan_1920,Haggard_The Virgin of the Sun_1922,6,undirected
+594,Haggard_The Ancient Allan_1920,Haggard_The Wanderer's Necklace_1914,2,undirected
+595,Haggard_The Brethren_1904,Haggard_Eric Brighteyes_1891,1,undirected
+596,Haggard_The Brethren_1904,Haggard_Morning Star_1910,5,undirected
+597,Haggard_The Brethren_1904,Haggard_Nada the Lily_1892,1,undirected
+598,Haggard_The Brethren_1904,Haggard_Pearl-Maiden_1903,1,undirected
+599,Haggard_The Brethren_1904,Haggard_Red Eve_1911,3,undirected
+600,Haggard_the Ghost Kings_1908,Haggard_Benita_1906,6,undirected
+601,Haggard_the Ghost Kings_1908,Haggard_Fair Margaret_1907,1,undirected
+602,Haggard_the Ghost Kings_1908,Haggard_Swallow_1899,2,undirected
+603,Haggard_The Ivory Child_1916,Haggard_Allan and the Holy Flower_1915,6,undirected
+604,Haggard_The Ivory Child_1916,Haggard_Doctor Therne_1898,3,undirected
+605,Haggard_The Ivory Child_1916,Haggard_Finished_1917,1,undirected
+606,Haggard_The Ivory Child_1916,Haggard_Queen Sheba's Ring_1910,2,undirected
+607,Haggard_The Ivory Child_1916,Haggard_When the World Shook_1919,5,undirected
+608,Haggard_The Lady of Blossholme_1909,Haggard_Fair Margaret_1907,6,undirected
+609,Haggard_The Lady of Blossholme_1909,Haggard_Morning Star_1910,4,undirected
+610,Haggard_The Lady of Blossholme_1909,Haggard_Red Eve_1911,5,undirected
+611,Haggard_The Mahatma and the Hare_1911,Haggard_Finished_1917,3,undirected
+612,Haggard_The Mahatma and the Hare_1911,Haggard_Marie_1912,2,undirected
+613,Haggard_The Mahatma and the Hare_1911,Haggard_When the World Shook_1919,1,undirected
+614,Haggard_The People of the Mist_1894,Haggard_Benita_1906,2,undirected
+615,Haggard_The People of the Mist_1894,Haggard_Black Heart and White Heart_1900,2,undirected
+616,Haggard_The People of the Mist_1894,Haggard_Lysbeth_1901,5,undirected
+617,Haggard_The People of the Mist_1894,Haggard_Montezuma's Daughter_1893,1,undirected
+618,Haggard_The People of the Mist_1894,Haggard_Pearl-Maiden_1903,6,undirected
+619,Haggard_The People of the Mist_1894,Haggard_Swallow_1899,2,undirected
+620,Haggard_The People of the Mist_1894,Haggard_The Wizard_1896,2,undirected
+621,Haggard_The Virgin of the Sun_1922,Haggard_Ayesha_1905,1,undirected
+622,Haggard_The Virgin of the Sun_1922,Haggard_Finished_1917,1,undirected
+623,Haggard_The Virgin of the Sun_1922,Haggard_Montezuma's Daughter_1893,3,undirected
+624,Haggard_The Virgin of the Sun_1922,Haggard_She and Allan_1921,2,undirected
+625,Haggard_The Virgin of the Sun_1922,Haggard_The Ancient Allan_1920,6,undirected
+626,Haggard_The Virgin of the Sun_1922,Haggard_The Wanderer's Necklace_1914,1,undirected
+627,Haggard_The Wanderer's Necklace_1914,Haggard_Moon of Israel_1918,6,undirected
+628,Haggard_The Wanderer's Necklace_1914,Haggard_The Ancient Allan_1920,2,undirected
+629,Haggard_The Wanderer's Necklace_1914,Haggard_The Virgin of the Sun_1922,1,undirected
+630,Haggard_The Wizard_1896,Haggard_Elissa_1900,6,undirected
+631,Haggard_The Wizard_1896,Haggard_Morning Star_1910,1,undirected
+632,Haggard_The Wizard_1896,Haggard_The People of the Mist_1894,2,undirected
+633,Haggard_The Yellow God_1908,Haggard_Benita_1906,3,undirected
+634,Haggard_The Yellow God_1908,Haggard_Fair Margaret_1907,1,undirected
+635,Haggard_The Yellow God_1908,Haggard_Lysbeth_1901,2,undirected
+636,Haggard_When the World Shook_1919,Haggard_Finished_1917,1,undirected
+637,Haggard_When the World Shook_1919,Haggard_Love Eternal_1918,1,undirected
+638,Haggard_When the World Shook_1919,Haggard_She and Allan_1921,4,undirected
+639,Haggard_When the World Shook_1919,Haggard_The Ivory Child_1916,5,undirected
+640,Haggard_When the World Shook_1919,Haggard_The Mahatma and the Hare_1911,1,undirected
+641,Henty_A Chapter of Adventures_1891,Henty_Among Malay Pirates_1899,1,undirected
+642,Henty_A Chapter of Adventures_1891,Henty_In the Heart of the Rockies_1895,4,undirected
+643,Henty_A Chapter of Adventures_1891,Henty_Tales of Daring and Danger_1890,5,undirected
+644,Henty_A Chapter of Adventures_1891,Henty_The Golden Canyon_1899,2,undirected
+645,Henty_A Final Reckoning_1887,Henty_Captain Bayley's Heir_1889,3,undirected
+646,Henty_A Final Reckoning_1887,Henty_One of the 28th_1890,1,undirected
+647,Henty_A Final Reckoning_1887,Henty_Sturdy and Strong_1888,2,undirected
+648,Henty_A Final Reckoning_1887,Henty_The Curse of Carne's Hold_1889,4,undirected
+649,Henty_A Final Reckoning_1887,Henty_Through the Fray_1886,3,undirected
+650,Henty_A Girl of the Commune_1895,Henty_In the Reign of Terror_1888,1,undirected
+651,Henty_A Girl of the Commune_1895,Henty_Rujub, the Juggler_1893,6,undirected
+652,Henty_A Girl of the Commune_1895,Henty_The Lost Heir_1899,2,undirected
+653,Henty_A Girl of the Commune_1895,Henty_The Queen's Cup_1897,3,undirected
+654,Henty_A Girl of the Commune_1895,Henty_With the British Legion_1903,2,undirected
+655,Henty_A Jacobite Exile_1894,Henty_In the Irish Brigade_1901,3,undirected
+656,Henty_A Jacobite Exile_1894,Henty_Saint Bartholomew's Eve_1894,2,undirected
+657,Henty_A Jacobite Exile_1894,Henty_The Lion of St. Mark_1889,3,undirected
+658,Henty_A Jacobite Exile_1894,Henty_Won by the Sword_1900,1,undirected
+659,Henty_A Knight of the White Cross_1896,Henty_Saint Bartholomew's Eve_1894,1,undirected
+660,Henty_A Knight of the White Cross_1896,Henty_The Cat of Bubastes_1889,5,undirected
+661,Henty_A Knight of the White Cross_1896,Henty_Won by the Sword_1900,3,undirected
+662,Henty_A March on London_1898,Henty_At Agincourt_1897,6,undirected
+663,Henty_A March on London_1898,Henty_Beric the Briton_1893,1,undirected
+664,Henty_A March on London_1898,Henty_Both Sides the Border_1899,3,undirected
+665,Henty_A March on London_1898,Henty_Wulf the Saxon_1895,1,undirected
+666,Henty_A Roving Commission_1900,Henty_Held Fast For England_1892,1,undirected
+667,Henty_A Roving Commission_1900,Henty_In Greek Waters_1893,2,undirected
+668,Henty_A Roving Commission_1900,Henty_In the Hands of the Cave-Dwellers_1900,2,undirected
+669,Henty_A Roving Commission_1900,Henty_No Surrender_1900,2,undirected
+670,Henty_A Roving Commission_1900,Henty_The Tiger of Mysore_1896,5,undirected
+671,Henty_A Roving Commission_1900,Henty_The Treasure of the Incas_1903,2,undirected
+672,Henty_Among Malay Pirates_1899,Henty_A Chapter of Adventures_1891,1,undirected
+673,Henty_Among Malay Pirates_1899,Henty_Tales of Daring and Danger_1890,6,undirected
+674,Henty_Among Malay Pirates_1899,Henty_With Cochrane the Dauntless_1897,2,undirected
+675,Henty_Among Malay Pirates_1899,Henty_With Wolfe in Canada_1887,1,undirected
+676,Henty_Among Malay Pirates_1899,Kingston_Voyages and Travels of Count Funnibos and Baron Stilkin_1874,1,undirected
+677,Henty_At Aboukir and Acre_1899,Henty_By England's Aid_1891,2,undirected
+678,Henty_At Aboukir and Acre_1899,Henty_On the Irrawaddy_1897,4,undirected
+679,Henty_At Aboukir and Acre_1899,Henty_Under Wellington's Command_1899,3,undirected
+680,Henty_At Aboukir and Acre_1899,Henty_With Frederick the Great_1898,6,undirected
+681,Henty_At Agincourt_1897,Henty_A March on London_1898,6,undirected
+682,Henty_At Agincourt_1897,Henty_Both Sides the Border_1899,4,undirected
+683,Henty_At Agincourt_1897,Henty_Wulf the Saxon_1895,3,undirected
+684,Henty_At the Point of the Bayonet_1902,Henty_Bonnie Prince Charlie_1888,2,undirected
+685,Henty_At the Point of the Bayonet_1902,Henty_In the Irish Brigade_1901,3,undirected
+686,Henty_At the Point of the Bayonet_1902,Henty_Out with Garibaldi_1901,5,undirected
+687,Henty_At the Point of the Bayonet_1902,Henty_With Frederick the Great_1898,1,undirected
+688,Henty_At the Point of the Bayonet_1902,Henty_Won by the Sword_1900,6,undirected
+689,Henty_Beric the Briton_1893,Henty_A March on London_1898,1,undirected
+690,Henty_Beric the Briton_1893,Henty_Saint Bartholomew's Eve_1894,4,undirected
+691,Henty_Beric the Briton_1893,Henty_The Cat of Bubastes_1889,3,undirected
+692,Henty_Bonnie Prince Charlie_1888,Henty_At the Point of the Bayonet_1902,2,undirected
+693,Henty_Bonnie Prince Charlie_1888,Henty_By Pike and Dyke_1890,2,undirected
+694,Henty_Bonnie Prince Charlie_1888,Henty_In the Irish Brigade_1901,2,undirected
+695,Henty_Bonnie Prince Charlie_1888,Henty_Saint Bartholomew's Eve_1894,3,undirected
+696,Henty_Both Sides the Border_1899,Henty_A March on London_1898,3,undirected
+697,Henty_Both Sides the Border_1899,Henty_At Agincourt_1897,4,undirected
+698,Henty_Both Sides the Border_1899,Henty_Wulf the Saxon_1895,6,undirected
+699,Henty_By Conduct and Courage_1905,Henty_The Dash for Khartoum_1892,1,undirected
+700,Henty_By Conduct and Courage_1905,Henty_The Tiger of Mysore_1896,2,undirected
+701,Henty_By Conduct and Courage_1905,Henty_With the British Legion_1903,3,undirected
+702,Henty_By England's Aid_1891,Henty_At Aboukir and Acre_1899,2,undirected
+703,Henty_By England's Aid_1891,Henty_By Pike and Dyke_1890,3,undirected
+704,Henty_By England's Aid_1891,Henty_The Bravest of the Brave_1887,3,undirected
+705,Henty_By England's Aid_1891,Henty_The Young Buglers_1880,2,undirected
+706,Henty_By England's Aid_1891,Henty_The Young Franc Tireurs_1872,2,undirected
+707,Henty_By Pike and Dyke_1890,Henty_Bonnie Prince Charlie_1888,2,undirected
+708,Henty_By Pike and Dyke_1890,Henty_By England's Aid_1891,3,undirected
+709,Henty_By Pike and Dyke_1890,Henty_By Right of Conquest_1891,1,undirected
+710,Henty_By Pike and Dyke_1890,Henty_Orange and Green_1888,2,undirected
+711,Henty_By Pike and Dyke_1890,Henty_Saint Bartholomew's Eve_1894,5,undirected
+712,Henty_By Pike and Dyke_1890,Henty_Won by the Sword_1900,1,undirected
+713,Henty_By Right of Conquest_1891,Henty_By Pike and Dyke_1890,1,undirected
+714,Henty_By Right of Conquest_1891,Henty_For the Temple_1888,6,undirected
+715,Henty_By Right of Conquest_1891,Henty_Orange and Green_1888,1,undirected
+716,Henty_By Right of Conquest_1891,Henty_The Cat of Bubastes_1889,4,undirected
+717,Henty_By Sheer Pluck_1884,Henty_The Bravest of the Brave_1887,2,undirected
+718,Henty_By Sheer Pluck_1884,Henty_The Young Buglers_1880,6,undirected
+719,Henty_By Sheer Pluck_1884,Henty_The Young Colonists_1885,1,undirected
+720,Henty_By Sheer Pluck_1884,Henty_The Young Franc Tireurs_1872,1,undirected
+721,Henty_By Sheer Pluck_1884,Henty_Through Three Campaigns_1904,1,undirected
+722,Henty_Captain Bayley's Heir_1889,Henty_A Final Reckoning_1887,3,undirected
+723,Henty_Captain Bayley's Heir_1889,Henty_Facing Death_1882,2,undirected
+724,Henty_Captain Bayley's Heir_1889,Henty_Redskin and Cow-Boy_1892,1,undirected
+725,Henty_Captain Bayley's Heir_1889,Henty_Sturdy and Strong_1888,3,undirected
+726,Henty_Captain Bayley's Heir_1889,Henty_The Dash for Khartoum_1892,2,undirected
+727,Henty_Captain Bayley's Heir_1889,Henty_Through the Fray_1886,1,undirected
+728,Henty_Captain Bayley's Heir_1889,Henty_When London Burned_1895,2,undirected
+729,Henty_Captain Bayley's Heir_1889,Henty_With Lee in Virginia_1890,6,undirected
+730,Henty_Colonel Thorndyke's Secret_1898,Henty_The Lost Heir_1899,6,undirected
+731,Henty_Colonel Thorndyke's Secret_1898,Henty_The Queen's Cup_1897,3,undirected
+732,Henty_Colonel Thorndyke's Secret_1898,Henty_With the British Legion_1903,1,undirected
+733,Henty_Condemned as a Nihilist_1893,Henty_Maori and Settler_1891,1,undirected
+734,Henty_Condemned as a Nihilist_1893,Henty_The Dash for Khartoum_1892,2,undirected
+735,Henty_Condemned as a Nihilist_1893,Henty_With Cochrane the Dauntless_1897,3,undirected
+736,Henty_Facing Death_1882,Henty_Captain Bayley's Heir_1889,2,undirected
+737,Henty_Facing Death_1882,Henty_Through the Fray_1886,1,undirected
+738,Henty_Facing Death_1882,Henty_With Lee in Virginia_1890,3,undirected
+739,Henty_For Name and Fame_1886,Henty_In Times of Peril_1881,1,undirected
+740,Henty_For Name and Fame_1886,Henty_Jack Archer_1883,5,undirected
+741,Henty_For Name and Fame_1886,Henty_The Young Colonists_1885,3,undirected
+742,Henty_For Name and Fame_1886,Henty_True to the Old Flag_1885,4,undirected
+743,Henty_For Name and Fame_1886,Henty_With Clive in India_1884,1,undirected
+744,Henty_For the Temple_1888,Henty_By Right of Conquest_1891,6,undirected
+745,Henty_For the Temple_1888,Henty_In Freedom's Cause_1885,2,undirected
+746,Henty_For the Temple_1888,Henty_Orange and Green_1888,1,undirected
+747,Henty_Friends Though Divided_1883,Henty_In Freedom's Cause_1885,4,undirected
+748,Henty_Friends Though Divided_1883,Henty_The Cornet of Horse_1881,2,undirected
+749,Henty_Friends Though Divided_1883,Henty_The Lion of the North_1886,1,undirected
+750,Henty_Friends Though Divided_1883,Henty_Winning His Spurs_1882,3,undirected
+751,Henty_Held Fast For England_1892,Henty_A Roving Commission_1900,1,undirected
+752,Henty_Held Fast For England_1892,Henty_In Greek Waters_1893,5,undirected
+753,Henty_Held Fast For England_1892,Henty_One of the 28th_1890,2,undirected
+754,Henty_Held Fast For England_1892,Henty_Redskin and Cow-Boy_1892,2,undirected
+755,Henty_Held Fast For England_1892,Henty_Sturdy and Strong_1888,1,undirected
+756,Henty_In Freedom's Cause_1885,Henty_For the Temple_1888,2,undirected
+757,Henty_In Freedom's Cause_1885,Henty_Friends Though Divided_1883,4,undirected
+758,Henty_In Freedom's Cause_1885,Henty_Saint George for England_,6,undirected
+759,Henty_In Freedom's Cause_1885,Henty_The Cornet of Horse_1881,1,undirected
+760,Henty_In Freedom's Cause_1885,Henty_The Dragon and the Raven_1886,1,undirected
+761,Henty_In Freedom's Cause_1885,Henty_The Young Carthaginian_1887,2,undirected
+762,Henty_In Greek Waters_1893,Henty_A Roving Commission_1900,2,undirected
+763,Henty_In Greek Waters_1893,Henty_Held Fast For England_1892,5,undirected
+764,Henty_In Greek Waters_1893,Henty_Maori and Settler_1891,6,undirected
+765,Henty_In the Hands of the Cave-Dwellers_1900,Henty_A Roving Commission_1900,2,undirected
+766,Henty_In the Hands of the Cave-Dwellers_1900,Henty_The Tiger of Mysore_1896,3,undirected
+767,Henty_In the Hands of the Cave-Dwellers_1900,Henty_The Treasure of the Incas_1903,1,undirected
+768,Henty_In the Hands of the Cave-Dwellers_1900,Henty_With Cochrane the Dauntless_1897,1,undirected
+769,Henty_In the Hands of the Malays_1905,Henty_The Dash for Khartoum_1892,1,undirected
+770,Henty_In the Hands of the Malays_1905,Henty_The Lion of St. Mark_1889,2,undirected
+771,Henty_In the Hands of the Malays_1905,Henty_Through Russian Snows_1896,6,undirected
+772,Henty_In the Heart of the Rockies_1895,Henty_A Chapter of Adventures_1891,4,undirected
+773,Henty_In the Heart of the Rockies_1895,Henty_Redskin and Cow-Boy_1892,6,undirected
+774,Henty_In the Heart of the Rockies_1895,Henty_The Golden Canyon_1899,4,undirected
+775,Henty_In the Irish Brigade_1901,Henty_A Jacobite Exile_1894,3,undirected
+776,Henty_In the Irish Brigade_1901,Henty_At the Point of the Bayonet_1902,3,undirected
+777,Henty_In the Irish Brigade_1901,Henty_Bonnie Prince Charlie_1888,2,undirected
+778,Henty_In the Irish Brigade_1901,Henty_The Lion of St. Mark_1889,1,undirected
+779,Henty_In the Irish Brigade_1901,Henty_Won by the Sword_1900,5,undirected
+780,Henty_In the Reign of Terror_1888,Henty_A Girl of the Commune_1895,1,undirected
+781,Henty_In the Reign of Terror_1888,Henty_When London Burned_1895,2,undirected
+782,Henty_In the Reign of Terror_1888,Henty_With the British Legion_1903,3,undirected
+783,Henty_In Times of Peril_1881,Henty_For Name and Fame_1886,1,undirected
+784,Henty_In Times of Peril_1881,Henty_Jack Archer_1883,3,undirected
+785,Henty_In Times of Peril_1881,Henty_On the Pampas_1871,2,undirected
+786,Henty_In Times of Peril_1881,Henty_The Young Buglers_1880,1,undirected
+787,Henty_In Times of Peril_1881,Henty_The Young Colonists_1885,5,undirected
+788,Henty_Jack Archer_1883,Henty_For Name and Fame_1886,5,undirected
+789,Henty_Jack Archer_1883,Henty_In Times of Peril_1881,3,undirected
+790,Henty_Jack Archer_1883,Henty_The March to Magdala_1868,1,undirected
+791,Henty_Jack Archer_1883,Henty_The Young Colonists_1885,6,undirected
+792,Henty_Jack Archer_1883,Henty_True to the Old Flag_1885,1,undirected
+793,Henty_Jack Archer_1883,Henty_Under Drake's Flag_1883,2,undirected
+794,Henty_Maori and Settler_1891,Henty_Condemned as a Nihilist_1893,1,undirected
+795,Henty_Maori and Settler_1891,Henty_In Greek Waters_1893,6,undirected
+796,Henty_Maori and Settler_1891,Henty_The Dash for Khartoum_1892,1,undirected
+797,Henty_Maori and Settler_1891,Henty_Under Wellington's Command_1899,2,undirected
+798,Henty_No Surrender_1900,Henty_A Roving Commission_1900,2,undirected
+799,Henty_No Surrender_1900,Henty_Saint Bartholomew's Eve_1894,1,undirected
+800,Henty_No Surrender_1900,Henty_Through the Sikh War_1894,4,undirected
+801,Henty_No Surrender_1900,Henty_With Moore at Corunna_1898,2,undirected
+802,Henty_On the Irrawaddy_1897,Henty_At Aboukir and Acre_1899,4,undirected
+803,Henty_On the Irrawaddy_1897,Henty_Under Wellington's Command_1899,2,undirected
+804,Henty_On the Irrawaddy_1897,Henty_With Buller in Natal_1901,2,undirected
+805,Henty_On the Irrawaddy_1897,Henty_With Cochrane the Dauntless_1897,4,undirected
+806,Henty_On the Pampas_1871,Henty_In Times of Peril_1881,2,undirected
+807,Henty_On the Pampas_1871,Henty_Tales of Daring and Danger_1890,2,undirected
+808,Henty_On the Pampas_1871,Henty_The Young Buglers_1880,3,undirected
+809,Henty_One of the 28th_1890,Henty_A Final Reckoning_1887,1,undirected
+810,Henty_One of the 28th_1890,Henty_Held Fast For England_1892,2,undirected
+811,Henty_One of the 28th_1890,Henty_The Curse of Carne's Hold_1889,5,undirected
+812,Henty_One of the 28th_1890,Henty_The Tiger of Mysore_1896,6,undirected
+813,Henty_One of the 28th_1890,Henty_With Lee in Virginia_1890,1,undirected
+814,Henty_Orange and Green_1888,Henty_By Pike and Dyke_1890,2,undirected
+815,Henty_Orange and Green_1888,Henty_By Right of Conquest_1891,1,undirected
+816,Henty_Orange and Green_1888,Henty_For the Temple_1888,1,undirected
+817,Henty_Orange and Green_1888,Henty_The Bravest of the Brave_1887,6,undirected
+818,Henty_Orange and Green_1888,Henty_With Wolfe in Canada_1887,3,undirected
+819,Henty_Out with Garibaldi_1901,Henty_At the Point of the Bayonet_1902,5,undirected
+820,Henty_Out with Garibaldi_1901,Henty_With Kitchener in the Soudan_1903,5,undirected
+821,Henty_Out with Garibaldi_1901,Henty_Won by the Sword_1900,1,undirected
+822,Henty_Redskin and Cow-Boy_1892,Henty_Captain Bayley's Heir_1889,1,undirected
+823,Henty_Redskin and Cow-Boy_1892,Henty_Held Fast For England_1892,2,undirected
+824,Henty_Redskin and Cow-Boy_1892,Henty_In the Heart of the Rockies_1895,6,undirected
+825,Henty_Redskin and Cow-Boy_1892,Henty_The Golden Canyon_1899,1,undirected
+826,Henty_Rujub, the Juggler_1893,Henty_A Girl of the Commune_1895,6,undirected
+827,Henty_Rujub, the Juggler_1893,Henty_The Curse of Carne's Hold_1889,1,undirected
+828,Henty_Rujub, the Juggler_1893,Henty_The Lost Heir_1899,1,undirected
+829,Henty_Rujub, the Juggler_1893,Henty_The Queen's Cup_1897,5,undirected
+830,Henty_Saint Bartholomew's Eve_1894,Henty_A Jacobite Exile_1894,2,undirected
+831,Henty_Saint Bartholomew's Eve_1894,Henty_A Knight of the White Cross_1896,1,undirected
+832,Henty_Saint Bartholomew's Eve_1894,Henty_Beric the Briton_1893,4,undirected
+833,Henty_Saint Bartholomew's Eve_1894,Henty_Bonnie Prince Charlie_1888,3,undirected
+834,Henty_Saint Bartholomew's Eve_1894,Henty_By Pike and Dyke_1890,5,undirected
+835,Henty_Saint Bartholomew's Eve_1894,Henty_No Surrender_1900,1,undirected
+836,Henty_Saint Bartholomew's Eve_1894,Henty_The Lion of St. Mark_1889,2,undirected
+837,Henty_Saint Bartholomew's Eve_1894,Henty_Won by the Sword_1900,4,undirected
+838,Henty_Saint George for England_,Henty_In Freedom's Cause_1885,6,undirected
+839,Henty_Saint George for England_,Henty_The Lion of the North_1886,4,undirected
+840,Henty_Saint George for England_,Henty_The Young Carthaginian_1887,2,undirected
+841,Henty_Saint George for England_,Henty_Winning His Spurs_1882,3,undirected
+842,Henty_Sturdy and Strong_1888,Henty_A Final Reckoning_1887,2,undirected
+843,Henty_Sturdy and Strong_1888,Henty_Captain Bayley's Heir_1889,3,undirected
+844,Henty_Sturdy and Strong_1888,Henty_Held Fast For England_1892,1,undirected
+845,Henty_Tales of Daring and Danger_1890,Henty_A Chapter of Adventures_1891,5,undirected
+846,Henty_Tales of Daring and Danger_1890,Henty_Among Malay Pirates_1899,6,undirected
+847,Henty_Tales of Daring and Danger_1890,Henty_On the Pampas_1871,2,undirected
+848,Henty_The Bravest of the Brave_1887,Henty_By England's Aid_1891,3,undirected
+849,Henty_The Bravest of the Brave_1887,Henty_By Sheer Pluck_1884,2,undirected
+850,Henty_The Bravest of the Brave_1887,Henty_Orange and Green_1888,6,undirected
+851,Henty_The Bravest of the Brave_1887,Henty_The Cornet of Horse_1881,4,undirected
+852,Henty_The Bravest of the Brave_1887,Henty_Through Three Campaigns_1904,3,undirected
+853,Henty_The Bravest of the Brave_1887,Henty_With Wolfe in Canada_1887,2,undirected
+854,Henty_The Cat of Bubastes_1889,Henty_A Knight of the White Cross_1896,5,undirected
+855,Henty_The Cat of Bubastes_1889,Henty_Beric the Briton_1893,3,undirected
+856,Henty_The Cat of Bubastes_1889,Henty_By Right of Conquest_1891,4,undirected
+857,Henty_The Cornet of Horse_1881,Henty_Friends Though Divided_1883,2,undirected
+858,Henty_The Cornet of Horse_1881,Henty_In Freedom's Cause_1885,1,undirected
+859,Henty_The Cornet of Horse_1881,Henty_The Bravest of the Brave_1887,4,undirected
+860,Henty_The Curse of Carne's Hold_1889,Henty_A Final Reckoning_1887,4,undirected
+861,Henty_The Curse of Carne's Hold_1889,Henty_One of the 28th_1890,5,undirected
+862,Henty_The Curse of Carne's Hold_1889,Henty_Rujub, the Juggler_1893,1,undirected
+863,Henty_The Curse of Carne's Hold_1889,Henty_Through Russian Snows_1896,1,undirected
+864,Henty_The Curse of Carne's Hold_1889,Henty_Through the Fray_1886,2,undirected
+865,Henty_The Dash for Khartoum_1892,Henty_By Conduct and Courage_1905,1,undirected
+866,Henty_The Dash for Khartoum_1892,Henty_Captain Bayley's Heir_1889,2,undirected
+867,Henty_The Dash for Khartoum_1892,Henty_Condemned as a Nihilist_1893,2,undirected
+868,Henty_The Dash for Khartoum_1892,Henty_In the Hands of the Malays_1905,1,undirected
+869,Henty_The Dash for Khartoum_1892,Henty_Maori and Settler_1891,1,undirected
+870,Henty_The Dash for Khartoum_1892,Henty_Through Russian Snows_1896,4,undirected
+871,Henty_The Dash for Khartoum_1892,Henty_With Cochrane the Dauntless_1897,3,undirected
+872,Henty_The Dash for Khartoum_1892,Henty_With Kitchener in the Soudan_1903,2,undirected
+873,Henty_The Dash for Khartoum_1892,Henty_With Lee in Virginia_1890,2,undirected
+874,Henty_The Dragon and the Raven_1886,Henty_In Freedom's Cause_1885,1,undirected
+875,Henty_The Dragon and the Raven_1886,Henty_The Lion of the North_1886,3,undirected
+876,Henty_The Dragon and the Raven_1886,Henty_The Young Carthaginian_1887,5,undirected
+877,Henty_The Dragon and the Raven_1886,Henty_Under Drake's Flag_1883,3,undirected
+878,Henty_The Golden Canyon_1899,Henty_A Chapter of Adventures_1891,2,undirected
+879,Henty_The Golden Canyon_1899,Henty_In the Heart of the Rockies_1895,4,undirected
+880,Henty_The Golden Canyon_1899,Henty_Redskin and Cow-Boy_1892,1,undirected
+881,Henty_The Lion of St. Mark_1889,Henty_A Jacobite Exile_1894,3,undirected
+882,Henty_The Lion of St. Mark_1889,Henty_In the Hands of the Malays_1905,2,undirected
+883,Henty_The Lion of St. Mark_1889,Henty_In the Irish Brigade_1901,1,undirected
+884,Henty_The Lion of St. Mark_1889,Henty_Saint Bartholomew's Eve_1894,2,undirected
+885,Henty_The Lion of the North_1886,Henty_Friends Though Divided_1883,1,undirected
+886,Henty_The Lion of the North_1886,Henty_Saint George for England_,4,undirected
+887,Henty_The Lion of the North_1886,Henty_The Dragon and the Raven_1886,3,undirected
+888,Henty_The Lion of the North_1886,Henty_The Young Carthaginian_1887,6,undirected
+889,Henty_The Lion of the North_1886,Henty_Winning His Spurs_1882,2,undirected
+890,Henty_The Lion of the North_1886,Henty_With Clive in India_1884,3,undirected
+891,Henty_The Lost Heir_1899,Henty_A Girl of the Commune_1895,2,undirected
+892,Henty_The Lost Heir_1899,Henty_Colonel Thorndyke's Secret_1898,6,undirected
+893,Henty_The Lost Heir_1899,Henty_Rujub, the Juggler_1893,1,undirected
+894,Henty_The March to Magdala_1868,Henty_Jack Archer_1883,1,undirected
+895,Henty_The March to Magdala_1868,Henty_The Young Colonists_1885,3,undirected
+896,Henty_The March to Magdala_1868,Kingston_Fred Markham in Russia_1858,2,undirected
+897,Henty_The Queen's Cup_1897,Henty_A Girl of the Commune_1895,3,undirected
+898,Henty_The Queen's Cup_1897,Henty_Colonel Thorndyke's Secret_1898,3,undirected
+899,Henty_The Queen's Cup_1897,Henty_Rujub, the Juggler_1893,5,undirected
+900,Henty_The Tiger of Mysore_1896,Henty_A Roving Commission_1900,5,undirected
+901,Henty_The Tiger of Mysore_1896,Henty_By Conduct and Courage_1905,2,undirected
+902,Henty_The Tiger of Mysore_1896,Henty_In the Hands of the Cave-Dwellers_1900,3,undirected
+903,Henty_The Tiger of Mysore_1896,Henty_One of the 28th_1890,6,undirected
+904,Henty_The Tiger of Mysore_1896,Henty_The Treasure of the Incas_1903,3,undirected
+905,Henty_The Tiger of Mysore_1896,Henty_When London Burned_1895,2,undirected
+906,Henty_The Tiger of Mysore_1896,Henty_With Cochrane the Dauntless_1897,1,undirected
+907,Henty_The Tiger of Mysore_1896,Henty_With Kitchener in the Soudan_1903,3,undirected
+908,Henty_The Tiger of Mysore_1896,Henty_With the British Legion_1903,2,undirected
+909,Henty_The Treasure of the Incas_1903,Henty_A Roving Commission_1900,2,undirected
+910,Henty_The Treasure of the Incas_1903,Henty_In the Hands of the Cave-Dwellers_1900,1,undirected
+911,Henty_The Treasure of the Incas_1903,Henty_The Tiger of Mysore_1896,3,undirected
+912,Henty_The Young Buglers_1880,Henty_By England's Aid_1891,2,undirected
+913,Henty_The Young Buglers_1880,Henty_By Sheer Pluck_1884,6,undirected
+914,Henty_The Young Buglers_1880,Henty_In Times of Peril_1881,1,undirected
+915,Henty_The Young Buglers_1880,Henty_On the Pampas_1871,3,undirected
+916,Henty_The Young Buglers_1880,Henty_The Young Franc Tireurs_1872,3,undirected
+917,Henty_The Young Carthaginian_1887,Henty_In Freedom's Cause_1885,2,undirected
+918,Henty_The Young Carthaginian_1887,Henty_Saint George for England_,2,undirected
+919,Henty_The Young Carthaginian_1887,Henty_The Dragon and the Raven_1886,5,undirected
+920,Henty_The Young Carthaginian_1887,Henty_The Lion of the North_1886,6,undirected
+921,Henty_The Young Carthaginian_1887,Henty_Under Drake's Flag_1883,1,undirected
+922,Henty_The Young Carthaginian_1887,Henty_With Clive in India_1884,2,undirected
+923,Henty_The Young Colonists_1885,Henty_By Sheer Pluck_1884,1,undirected
+924,Henty_The Young Colonists_1885,Henty_For Name and Fame_1886,3,undirected
+925,Henty_The Young Colonists_1885,Henty_In Times of Peril_1881,5,undirected
+926,Henty_The Young Colonists_1885,Henty_Jack Archer_1883,6,undirected
+927,Henty_The Young Colonists_1885,Henty_The March to Magdala_1868,3,undirected
+928,Henty_The Young Colonists_1885,Henty_True to the Old Flag_1885,2,undirected
+929,Henty_The Young Franc Tireurs_1872,Henty_By England's Aid_1891,2,undirected
+930,Henty_The Young Franc Tireurs_1872,Henty_By Sheer Pluck_1884,1,undirected
+931,Henty_The Young Franc Tireurs_1872,Henty_The Young Buglers_1880,3,undirected
+932,Henty_Through Russian Snows_1896,Henty_In the Hands of the Malays_1905,6,undirected
+933,Henty_Through Russian Snows_1896,Henty_The Curse of Carne's Hold_1889,1,undirected
+934,Henty_Through Russian Snows_1896,Henty_The Dash for Khartoum_1892,4,undirected
+935,Henty_Through Russian Snows_1896,Henty_When London Burned_1895,5,undirected
+936,Henty_Through Russian Snows_1896,Henty_With the British Legion_1903,3,undirected
+937,Henty_Through the Fray_1886,Henty_A Final Reckoning_1887,3,undirected
+938,Henty_Through the Fray_1886,Henty_Captain Bayley's Heir_1889,1,undirected
+939,Henty_Through the Fray_1886,Henty_Facing Death_1882,1,undirected
+940,Henty_Through the Fray_1886,Henty_The Curse of Carne's Hold_1889,2,undirected
+941,Henty_Through the Sikh War_1894,Henty_No Surrender_1900,4,undirected
+942,Henty_Through the Sikh War_1894,Henty_Under Wellington's Command_1899,6,undirected
+943,Henty_Through the Sikh War_1894,Henty_With Moore at Corunna_1898,4,undirected
+944,Henty_Through Three Campaigns_1904,Henty_By Sheer Pluck_1884,1,undirected
+945,Henty_Through Three Campaigns_1904,Henty_The Bravest of the Brave_1887,3,undirected
+946,Henty_Through Three Campaigns_1904,Henty_With Wolfe in Canada_1887,2,undirected
+947,Henty_True to the Old Flag_1885,Henty_For Name and Fame_1886,4,undirected
+948,Henty_True to the Old Flag_1885,Henty_Jack Archer_1883,1,undirected
+949,Henty_True to the Old Flag_1885,Henty_The Young Colonists_1885,2,undirected
+950,Henty_Under Drake's Flag_1883,Henty_Jack Archer_1883,2,undirected
+951,Henty_Under Drake's Flag_1883,Henty_The Dragon and the Raven_1886,3,undirected
+952,Henty_Under Drake's Flag_1883,Henty_The Young Carthaginian_1887,1,undirected
+953,Henty_Under Wellington's Command_1899,Henty_At Aboukir and Acre_1899,3,undirected
+954,Henty_Under Wellington's Command_1899,Henty_Maori and Settler_1891,2,undirected
+955,Henty_Under Wellington's Command_1899,Henty_On the Irrawaddy_1897,2,undirected
+956,Henty_Under Wellington's Command_1899,Henty_Through the Sikh War_1894,6,undirected
+957,Henty_Under Wellington's Command_1899,Henty_With Buller in Natal_1901,1,undirected
+958,Henty_Under Wellington's Command_1899,Henty_With Moore at Corunna_1898,5,undirected
+959,Henty_When London Burned_1895,Henty_Captain Bayley's Heir_1889,2,undirected
+960,Henty_When London Burned_1895,Henty_In the Reign of Terror_1888,2,undirected
+961,Henty_When London Burned_1895,Henty_The Tiger of Mysore_1896,2,undirected
+962,Henty_When London Burned_1895,Henty_Through Russian Snows_1896,5,undirected
+963,Henty_Winning His Spurs_1882,Henty_Friends Though Divided_1883,3,undirected
+964,Henty_Winning His Spurs_1882,Henty_Saint George for England_,3,undirected
+965,Henty_Winning His Spurs_1882,Henty_The Lion of the North_1886,2,undirected
+966,Henty_With Buller in Natal_1901,Henty_On the Irrawaddy_1897,2,undirected
+967,Henty_With Buller in Natal_1901,Henty_Under Wellington's Command_1899,1,undirected
+968,Henty_With Buller in Natal_1901,Henty_With Cochrane the Dauntless_1897,3,undirected
+969,Henty_With Clive in India_1884,Henty_For Name and Fame_1886,1,undirected
+970,Henty_With Clive in India_1884,Henty_The Lion of the North_1886,3,undirected
+971,Henty_With Clive in India_1884,Henty_The Young Carthaginian_1887,2,undirected
+972,Henty_With Cochrane the Dauntless_1897,Henty_Among Malay Pirates_1899,2,undirected
+973,Henty_With Cochrane the Dauntless_1897,Henty_Condemned as a Nihilist_1893,3,undirected
+974,Henty_With Cochrane the Dauntless_1897,Henty_In the Hands of the Cave-Dwellers_1900,1,undirected
+975,Henty_With Cochrane the Dauntless_1897,Henty_On the Irrawaddy_1897,4,undirected
+976,Henty_With Cochrane the Dauntless_1897,Henty_The Dash for Khartoum_1892,3,undirected
+977,Henty_With Cochrane the Dauntless_1897,Henty_The Tiger of Mysore_1896,1,undirected
+978,Henty_With Cochrane the Dauntless_1897,Henty_With Buller in Natal_1901,3,undirected
+979,Henty_With Frederick the Great_1898,Henty_At Aboukir and Acre_1899,6,undirected
+980,Henty_With Frederick the Great_1898,Henty_At the Point of the Bayonet_1902,1,undirected
+981,Henty_With Frederick the Great_1898,Henty_With Lee in Virginia_1890,1,undirected
+982,Henty_With Frederick the Great_1898,Henty_Won by the Sword_1900,2,undirected
+983,Henty_With Kitchener in the Soudan_1903,Henty_Out with Garibaldi_1901,5,undirected
+984,Henty_With Kitchener in the Soudan_1903,Henty_The Dash for Khartoum_1892,2,undirected
+985,Henty_With Kitchener in the Soudan_1903,Henty_The Tiger of Mysore_1896,3,undirected
+986,Henty_With Kitchener in the Soudan_1903,Henty_With Moore at Corunna_1898,1,undirected
+987,Henty_With Kitchener in the Soudan_1903,Henty_With the British Legion_1903,1,undirected
+988,Henty_With Lee in Virginia_1890,Henty_Captain Bayley's Heir_1889,6,undirected
+989,Henty_With Lee in Virginia_1890,Henty_Facing Death_1882,3,undirected
+990,Henty_With Lee in Virginia_1890,Henty_One of the 28th_1890,1,undirected
+991,Henty_With Lee in Virginia_1890,Henty_The Dash for Khartoum_1892,2,undirected
+992,Henty_With Lee in Virginia_1890,Henty_With Frederick the Great_1898,1,undirected
+993,Henty_With Lee in Virginia_1890,Henty_With Wolfe in Canada_1887,1,undirected
+994,Henty_With Moore at Corunna_1898,Henty_No Surrender_1900,2,undirected
+995,Henty_With Moore at Corunna_1898,Henty_Through the Sikh War_1894,4,undirected
+996,Henty_With Moore at Corunna_1898,Henty_Under Wellington's Command_1899,5,undirected
+997,Henty_With Moore at Corunna_1898,Henty_With Kitchener in the Soudan_1903,1,undirected
+998,Henty_With Moore at Corunna_1898,Henty_Won by the Sword_1900,1,undirected
+999,Henty_With the British Legion_1903,Henty_A Girl of the Commune_1895,2,undirected
+1000,Henty_With the British Legion_1903,Henty_By Conduct and Courage_1905,3,undirected
+1001,Henty_With the British Legion_1903,Henty_Colonel Thorndyke's Secret_1898,1,undirected
+1002,Henty_With the British Legion_1903,Henty_In the Reign of Terror_1888,3,undirected
+1003,Henty_With the British Legion_1903,Henty_The Tiger of Mysore_1896,2,undirected
+1004,Henty_With the British Legion_1903,Henty_Through Russian Snows_1896,3,undirected
+1005,Henty_With the British Legion_1903,Henty_With Kitchener in the Soudan_1903,1,undirected
+1006,Henty_With Wolfe in Canada_1887,Henty_Among Malay Pirates_1899,1,undirected
+1007,Henty_With Wolfe in Canada_1887,Henty_Orange and Green_1888,3,undirected
+1008,Henty_With Wolfe in Canada_1887,Henty_The Bravest of the Brave_1887,2,undirected
+1009,Henty_With Wolfe in Canada_1887,Henty_Through Three Campaigns_1904,2,undirected
+1010,Henty_With Wolfe in Canada_1887,Henty_With Lee in Virginia_1890,1,undirected
+1011,Henty_Won by the Sword_1900,Henty_A Jacobite Exile_1894,1,undirected
+1012,Henty_Won by the Sword_1900,Henty_A Knight of the White Cross_1896,3,undirected
+1013,Henty_Won by the Sword_1900,Henty_At the Point of the Bayonet_1902,6,undirected
+1014,Henty_Won by the Sword_1900,Henty_By Pike and Dyke_1890,1,undirected
+1015,Henty_Won by the Sword_1900,Henty_In the Irish Brigade_1901,5,undirected
+1016,Henty_Won by the Sword_1900,Henty_Out with Garibaldi_1901,1,undirected
+1017,Henty_Won by the Sword_1900,Henty_Saint Bartholomew's Eve_1894,4,undirected
+1018,Henty_Won by the Sword_1900,Henty_With Frederick the Great_1898,2,undirected
+1019,Henty_Won by the Sword_1900,Henty_With Moore at Corunna_1898,1,undirected
+1020,Henty_Won by the Sword_1900,Henty_Wulf the Saxon_1895,1,undirected
+1021,Henty_Wulf the Saxon_1895,Henty_A March on London_1898,1,undirected
+1022,Henty_Wulf the Saxon_1895,Henty_At Agincourt_1897,3,undirected
+1023,Henty_Wulf the Saxon_1895,Henty_Both Sides the Border_1899,6,undirected
+1024,Henty_Wulf the Saxon_1895,Henty_Won by the Sword_1900,1,undirected
+1025,Kingston_A True Hero_1870,Kingston_John Deane of Nottingham_1870,3,undirected
+1026,Kingston_A True Hero_1870,Kingston_The Cruise of the Mary Rose_1903,1,undirected
+1027,Kingston_A True Hero_1870,Kingston_The Golden Grasshopper_1880,2,undirected
+1028,Kingston_A True Hero_1870,Kingston_The Heir of Kilfinnan_1880,1,undirected
+1029,Kingston_A True Hero_1870,Kingston_The Woodcutter of Gutech_1873,1,undirected
+1030,Kingston_A Voyage Round the World_1869,Kingston_Captain Mugford_1869,3,undirected
+1031,Kingston_A Voyage Round the World_1869,KIngston_In the Eastern Seas_1871,1,undirected
+1032,Kingston_A Voyage Round the World_1869,Kingston_My First Voyage to Southern Seas_1860,1,undirected
+1033,Kingston_A Voyage Round the World_1869,Kingston_Old Jack_1861,6,undirected
+1034,Kingston_A Voyage Round the World_1869,Kingston_On the Banks of the Amazon_1872,1,undirected
+1035,Kingston_A Voyage Round the World_1869,Kingston_Peter the Whaler_1851,2,undirected
+1036,Kingston_Adrift in a Boat_1869,Kingston_Ben Hadden_1870,1,undirected
+1037,Kingston_Adrift in a Boat_1869,Kingston_From Powder Monkey to Admiral_1870,2,undirected
+1038,Kingston_Adrift in a Boat_1869,Kingston_Paul Gerrard, the Cabin Boy_1867,4,undirected
+1039,Kingston_Adrift in a Boat_1869,Kingston_Sunshine Bill_1870,3,undirected
+1040,Kingston_Adrift in a Boat_1869,Kingston_The Three Admirals_1877,1,undirected
+1041,Kingston_Adventures in Australia_1886,Kingston_Adventures in the Far West_1881,5,undirected
+1042,Kingston_Adventures in Australia_1886,Kingston_Saved from the Sea_1876,2,undirected
+1043,Kingston_Adventures in Australia_1886,Kingston_With Axe and Rifle_1878,1,undirected
+1044,Kingston_Adventures in the Far West_1881,Kingston_Adventures in Australia_1886,5,undirected
+1045,Kingston_Adventures in the Far West_1881,KIngston_In the Wilds of Florida_1880,3,undirected
+1046,Kingston_Adventures in the Far West_1881,Kingston_The Boy Who Sailed With Blake_1880,1,undirected
+1047,Kingston_Adventures in the Far West_1881,Kingston_With Axe and Rifle_1878,1,undirected
+1048,Kingston_Archibald Hughson_1873,Kingston_Roger Willoughby_1859,2,undirected
+1049,Kingston_Archibald Hughson_1873,Kingston_The Missing Ship_1884,1,undirected
+1050,Kingston_Archibald Hughson_1873,Kingston_The Three Lieutenants_1874,3,undirected
+1051,Kingston_Ben Burton_1872,Kingston_Salt Water_1857,2,undirected
+1052,Kingston_Ben Burton_1872,Kingston_Tales of the Sea_1874,3,undirected
+1053,Kingston_Ben Burton_1872,Kingston_Will Weatherhelm_1860,1,undirected
+1054,Kingston_Ben Hadden_1870,Kingston_Adrift in a Boat_1869,1,undirected
+1055,Kingston_Ben Hadden_1870,Kingston_Ernest Bracebridge_1860,3,undirected
+1056,Kingston_Ben Hadden_1870,Kingston_Paul Gerrard, the Cabin Boy_1867,3,undirected
+1057,Kingston_Ben Hadden_1870,Kingston_The Three Midshipmen_1862,2,undirected
+1058,Kingston_Captain Mugford_1869,Kingston_A Voyage Round the World_1869,3,undirected
+1059,Kingston_Captain Mugford_1869,Kingston_Old Jack_1861,1,undirected
+1060,Kingston_Captain Mugford_1869,Kingston_The Grateful Indian_1860,2,undirected
+1061,Kingston_Charley Laurel_1874,Kingston_Happy Jack_1889,5,undirected
+1062,Kingston_Charley Laurel_1874,Kingston_Mary Liddiard_1870,1,undirected
+1063,Kingston_Charley Laurel_1874,Kingston_Mountain Moggy_1866,3,undirected
+1064,Kingston_Charley Laurel_1874,Kingston_Paddy Finn_1880,2,undirected
+1065,Kingston_Charley Laurel_1874,Kingston_Tales of the Sea_1874,2,undirected
+1066,Kingston_Charley Laurel_1874,Kingston_The African Trader_1872,2,undirected
+1067,Kingston_Charley Laurel_1874,Kingston_The History of Little Peter_1873,1,undirected
+1068,Kingston_Charley Laurel_1874,Kingston_The Loss of the Royal George_1876,2,undirected
+1069,Kingston_Clara Maynard_1877,Kingston_Count Ulrich of Lindburg_1868,1,undirected
+1070,Kingston_Clara Maynard_1877,Kingston_Janet McLaren_1873,2,undirected
+1071,Kingston_Clara Maynard_1877,Kingston_The Pirate of the Mediterranean_1851,3,undirected
+1072,Kingston_Count Ulrich of Lindburg_1868,Kingston_Clara Maynard_1877,1,undirected
+1073,Kingston_Count Ulrich of Lindburg_1868,Kingston_John Deane of Nottingham_1870,2,undirected
+1074,Kingston_Count Ulrich of Lindburg_1868,Kingston_The Last Look_1869,1,undirected
+1075,Kingston_Count Ulrich of Lindburg_1868,Kingston_The Pirate of the Mediterranean_1851,3,undirected
+1076,Kingston_Dick Cheveley_1880,Kingston_Happy Jack_1889,1,undirected
+1077,Kingston_Dick Cheveley_1880,Kingston_Snow-Shoes and Canoes_1876,3,undirected
+1078,Kingston_Dick Cheveley_1880,Kingston_Will Weatherhelm_1860,2,undirected
+1079,Kingston_Dick Onslow_1864,Kingston_In the Wilds of Africa_1871,3,undirected
+1080,Kingston_Dick Onslow_1864,Kingston_Marmaduke Merry_1863,1,undirected
+1081,Kingston_Dick Onslow_1864,Kingston_My First Voyage to Southern Seas_1860,2,undirected
+1082,Kingston_Ernest Bracebridge_1860,Kingston_Ben Hadden_1870,3,undirected
+1083,Kingston_Ernest Bracebridge_1860,Kingston_The Three Midshipmen_1862,1,undirected
+1084,Kingston_Ernest Bracebridge_1860,Kingston_Washed Ashore_1866,2,undirected
+1085,Kingston_Exiled for the Faith_1898,Kingston_The Last Look_1869,2,undirected
+1086,Kingston_Exiled for the Faith_1898,Kingston_The Lily of Leyden_1880,3,undirected
+1087,Kingston_Exiled for the Faith_1898,Kingston_The Settlers_1875,1,undirected
+1088,Kingston_Exiled for the Faith_1898,Kingston_The Young Rajah_1876,3,undirected
+1089,Kingston_Exiled for the Faith_1898,Kingston_Villegagnon_1886,6,undirected
+1090,Kingston_Fred Markham in Russia_1858,Henty_The March to Magdala_1868,2,undirected
+1091,Kingston_Fred Markham in Russia_1858,Kingston_Mark Seaworth_1852,2,undirected
+1092,Kingston_Fred Markham in Russia_1858,Kingston_Old Jack_1861,1,undirected
+1093,Kingston_Fred Markham in Russia_1858,Kingston_The Cruise of the Mary Rose_1903,6,undirected
+1094,Kingston_From Powder Monkey to Admiral_1870,Kingston_Adrift in a Boat_1869,2,undirected
+1095,Kingston_From Powder Monkey to Admiral_1870,Kingston_Hendricks the Hunter_1879,2,undirected
+1096,Kingston_From Powder Monkey to Admiral_1870,Kingston_Paul Gerrard, the Cabin Boy_1867,3,undirected
+1097,Kingston_From Powder Monkey to Admiral_1870,Kingston_The Three Admirals_1877,3,undirected
+1098,Kingston_Happy Jack_1889,Kingston_Charley Laurel_1874,5,undirected
+1099,Kingston_Happy Jack_1889,Kingston_Dick Cheveley_1880,1,undirected
+1100,Kingston_Happy Jack_1889,Kingston_Paddy Finn_1880,2,undirected
+1101,Kingston_Happy Jack_1889,Kingston_Tales of the Sea_1874,6,undirected
+1102,Kingston_Happy Jack_1889,Kingston_The African Trader_1872,4,undirected
+1103,Kingston_Hendricks the Hunter_1879,Kingston_From Powder Monkey to Admiral_1870,2,undirected
+1104,Kingston_Hendricks the Hunter_1879,Kingston_Ned Garth_1862,1,undirected
+1105,Kingston_Hendricks the Hunter_1879,Kingston_Roger Willoughby_1859,4,undirected
+1106,Kingston_Hendricks the Hunter_1879,Kingston_The Frontier Fort_1879,6,undirected
+1107,Kingston_Hendricks the Hunter_1879,Kingston_The Gilpins and Their Fortunes_1865,2,undirected
+1108,Kingston_Hurricane Hurry_1874,Kingston_James Braithwaite, the Supercargo_1880,6,undirected
+1109,Kingston_Hurricane Hurry_1874,Kingston_My First Voyage to Southern Seas_1860,1,undirected
+1110,Kingston_Hurricane Hurry_1874,Kingston_Old Jack_1861,1,undirected
+1111,Kingston_Hurricane Hurry_1874,Kingston_Peter the Whaler_1851,5,undirected
+1112,Kingston_In New Grenada_1879,KIngston_In the Wilds of Florida_1880,2,undirected
+1113,Kingston_In New Grenada_1879,Kingston_The Boy Who Sailed With Blake_1880,3,undirected
+1114,Kingston_In New Grenada_1879,Kingston_The Golden Grasshopper_1880,1,undirected
+1115,Kingston_In New Grenada_1879,Kingston_The Young Llanero_1877,6,undirected
+1116,Kingston_In New Grenada_1879,Kingston_With Axe and Rifle_1878,1,undirected
+1117,KIngston_In the Eastern Seas_1871,Kingston_A Voyage Round the World_1869,1,undirected
+1118,KIngston_In the Eastern Seas_1871,Kingston_In the Wilds of Africa_1871,5,undirected
+1119,KIngston_In the Eastern Seas_1871,Kingston_On the Banks of the Amazon_1872,6,undirected
+1120,Kingston_In the Rocky Mountains_1878,Kingston_In the Wilds of Africa_1871,1,undirected
+1121,Kingston_In the Rocky Mountains_1878,KIngston_In the Wilds of Florida_1880,2,undirected
+1122,Kingston_In the Rocky Mountains_1878,Kingston_Saved from the Sea_1876,1,undirected
+1123,Kingston_In the Rocky Mountains_1878,Kingston_With Axe and Rifle_1878,4,undirected
+1124,Kingston_In the Wilds of Africa_1871,Kingston_Dick Onslow_1864,3,undirected
+1125,Kingston_In the Wilds of Africa_1871,KIngston_In the Eastern Seas_1871,5,undirected
+1126,Kingston_In the Wilds of Africa_1871,Kingston_In the Rocky Mountains_1878,1,undirected
+1127,Kingston_In the Wilds of Africa_1871,Kingston_On the Banks of the Amazon_1872,4,undirected
+1128,KIngston_In the Wilds of Florida_1880,Kingston_Adventures in the Far West_1881,3,undirected
+1129,KIngston_In the Wilds of Florida_1880,Kingston_In New Grenada_1879,2,undirected
+1130,KIngston_In the Wilds of Florida_1880,Kingston_In the Rocky Mountains_1878,2,undirected
+1131,KIngston_In the Wilds of Florida_1880,Kingston_Snow-Shoes and Canoes_1876,2,undirected
+1132,KIngston_In the Wilds of Florida_1880,Kingston_The Boy Who Sailed With Blake_1880,2,undirected
+1133,KIngston_In the Wilds of Florida_1880,Kingston_The Two Supercargoes_1878,1,undirected
+1134,KIngston_In the Wilds of Florida_1880,Kingston_Twice Lost_1876,2,undirected
+1135,KIngston_In the Wilds of Florida_1880,Kingston_With Axe and Rifle_1878,6,undirected
+1136,Kingston_James Braithwaite, the Supercargo_1880,Kingston_Hurricane Hurry_1874,6,undirected
+1137,Kingston_James Braithwaite, the Supercargo_1880,Kingston_Old Jack_1861,1,undirected
+1138,Kingston_James Braithwaite, the Supercargo_1880,Kingston_Peter the Whaler_1851,2,undirected
+1139,Kingston_Janet McLaren_1873,Kingston_Clara Maynard_1877,2,undirected
+1140,Kingston_Janet McLaren_1873,Kingston_Mary Liddiard_1870,3,undirected
+1141,Kingston_Janet McLaren_1873,Kingston_Ned Garth_1862,2,undirected
+1142,Kingston_Janet McLaren_1873,Kingston_The Trapper's Son_1873,6,undirected
+1143,Kingston_Janet McLaren_1873,Kingston_Won From the Waves_1882,3,undirected
+1144,Kingston_John Deane of Nottingham_1870,Kingston_A True Hero_1870,3,undirected
+1145,Kingston_John Deane of Nottingham_1870,Kingston_Count Ulrich of Lindburg_1868,2,undirected
+1146,Kingston_John Deane of Nottingham_1870,Kingston_Ronald Morton_1872,5,undirected
+1147,Kingston_John Deane of Nottingham_1870,Kingston_The Ferryman of Brill_1880,2,undirected
+1148,Kingston_John Deane of Nottingham_1870,Kingston_The Golden Grasshopper_1880,4,undirected
+1149,Kingston_John Deane of Nottingham_1870,Kingston_The Pirate of the Mediterranean_1851,2,undirected
+1150,Kingston_John Deane of Nottingham_1870,Kingston_The Woodcutter of Gutech_1873,2,undirected
+1151,Kingston_Manco, the Peruvian Chief_1853,Kingston_Mark Seaworth_1852,4,undirected
+1152,Kingston_Manco, the Peruvian Chief_1853,Kingston_Peter the Whaler_1851,1,undirected
+1153,Kingston_Manco, the Peruvian Chief_1853,Kingston_The Young Llanero_1877,3,undirected
+1154,Kingston_Mark Seaworth_1852,Kingston_Fred Markham in Russia_1858,2,undirected
+1155,Kingston_Mark Seaworth_1852,Kingston_Manco, the Peruvian Chief_1853,4,undirected
+1156,Kingston_Mark Seaworth_1852,Kingston_My First Voyage to Southern Seas_1860,2,undirected
+1157,Kingston_Mark Seaworth_1852,Kingston_Peter the Whaler_1851,4,undirected
+1158,Kingston_Mark Seaworth_1852,Kingston_The Cruise of the Mary Rose_1903,2,undirected
+1159,Kingston_Marmaduke Merry_1863,Kingston_Dick Onslow_1864,1,undirected
+1160,Kingston_Marmaduke Merry_1863,Kingston_Peter Biddulph_1881,3,undirected
+1161,Kingston_Marmaduke Merry_1863,Kingston_Salt Water_1857,5,undirected
+1162,Kingston_Marmaduke Merry_1863,Kingston_Tales of the Sea_1874,2,undirected
+1163,Kingston_Marmaduke Merry_1863,Kingston_Will Weatherhelm_1860,5,undirected
+1164,Kingston_Mary Liddiard_1870,Kingston_Charley Laurel_1874,1,undirected
+1165,Kingston_Mary Liddiard_1870,Kingston_Janet McLaren_1873,3,undirected
+1166,Kingston_Mary Liddiard_1870,Kingston_The Trapper's Son_1873,2,undirected
+1167,Kingston_Michael Penguyne_1873,Kingston_Ned Garth_1862,2,undirected
+1168,Kingston_Michael Penguyne_1873,Kingston_Owen Hartley_1877,1,undirected
+1169,Kingston_Michael Penguyne_1873,Kingston_Won From the Waves_1882,6,undirected
+1170,Kingston_Mountain Moggy_1866,Kingston_Charley Laurel_1874,3,undirected
+1171,Kingston_Mountain Moggy_1866,Kingston_Ronald Morton_1872,1,undirected
+1172,Kingston_Mountain Moggy_1866,Kingston_Salt Water_1857,2,undirected
+1173,Kingston_My First Voyage to Southern Seas_1860,Kingston_A Voyage Round the World_1869,1,undirected
+1174,Kingston_My First Voyage to Southern Seas_1860,Kingston_Dick Onslow_1864,2,undirected
+1175,Kingston_My First Voyage to Southern Seas_1860,Kingston_Hurricane Hurry_1874,1,undirected
+1176,Kingston_My First Voyage to Southern Seas_1860,Kingston_Mark Seaworth_1852,2,undirected
+1177,Kingston_My First Voyage to Southern Seas_1860,Kingston_Old Jack_1861,5,undirected
+1178,Kingston_My First Voyage to Southern Seas_1860,Kingston_Peter the Whaler_1851,2,undirected
+1179,Kingston_Ned Garth_1862,Kingston_Hendricks the Hunter_1879,1,undirected
+1180,Kingston_Ned Garth_1862,Kingston_Janet McLaren_1873,2,undirected
+1181,Kingston_Ned Garth_1862,Kingston_Michael Penguyne_1873,2,undirected
+1182,Kingston_Ned Garth_1862,Kingston_Owen Hartley_1877,3,undirected
+1183,Kingston_Ned Garth_1862,Kingston_Roger Willoughby_1859,1,undirected
+1184,Kingston_Ned Garth_1862,Kingston_The Ferryman of Brill_1880,1,undirected
+1185,Kingston_Ned Garth_1862,Kingston_The Frontier Fort_1879,1,undirected
+1186,Kingston_Ned Garth_1862,Kingston_The Heir of Kilfinnan_1880,1,undirected
+1187,Kingston_Ned Garth_1862,Kingston_The History of Little Peter_1873,3,undirected
+1188,Kingston_Ned Garth_1862,Kingston_The Missing Ship_1884,5,undirected
+1189,Kingston_Ned Garth_1862,Kingston_The Rival Crusoes_1879,6,undirected
+1190,Kingston_Ned Garth_1862,Kingston_The Two Shipmates_1874,2,undirected
+1191,Kingston_Ned Garth_1862,Kingston_Washed Ashore_1866,2,undirected
+1192,Kingston_Old Jack_1861,Kingston_A Voyage Round the World_1869,6,undirected
+1193,Kingston_Old Jack_1861,Kingston_Captain Mugford_1869,1,undirected
+1194,Kingston_Old Jack_1861,Kingston_Fred Markham in Russia_1858,1,undirected
+1195,Kingston_Old Jack_1861,Kingston_Hurricane Hurry_1874,1,undirected
+1196,Kingston_Old Jack_1861,Kingston_James Braithwaite, the Supercargo_1880,1,undirected
+1197,Kingston_Old Jack_1861,Kingston_My First Voyage to Southern Seas_1860,5,undirected
+1198,Kingston_Old Jack_1861,Kingston_Peter the Whaler_1851,3,undirected
+1199,Kingston_On the Banks of the Amazon_1872,Kingston_A Voyage Round the World_1869,1,undirected
+1200,Kingston_On the Banks of the Amazon_1872,KIngston_In the Eastern Seas_1871,6,undirected
+1201,Kingston_On the Banks of the Amazon_1872,Kingston_In the Wilds of Africa_1871,4,undirected
+1202,Kingston_On the Banks of the Amazon_1872,Kingston_The Wanderers_1876,1,undirected
+1203,Kingston_Owen Hartley_1877,Kingston_Michael Penguyne_1873,1,undirected
+1204,Kingston_Owen Hartley_1877,Kingston_Ned Garth_1862,3,undirected
+1205,Kingston_Owen Hartley_1877,Kingston_Roger Willoughby_1859,1,undirected
+1206,Kingston_Owen Hartley_1877,Kingston_Sunshine Bill_1870,1,undirected
+1207,Kingston_Owen Hartley_1877,Kingston_The Rival Crusoes_1879,5,undirected
+1208,Kingston_Paddy Finn_1880,Kingston_Charley Laurel_1874,2,undirected
+1209,Kingston_Paddy Finn_1880,Kingston_Happy Jack_1889,2,undirected
+1210,Kingston_Paddy Finn_1880,Kingston_Peter Trawl_1881,2,undirected
+1211,Kingston_Paddy Finn_1880,Kingston_Tales of the Sea_1874,3,undirected
+1212,Kingston_Paddy Finn_1880,Kingston_The Two Whalers_1879,2,undirected
+1213,Kingston_Paul Gerrard, the Cabin Boy_1867,Kingston_Adrift in a Boat_1869,4,undirected
+1214,Kingston_Paul Gerrard, the Cabin Boy_1867,Kingston_Ben Hadden_1870,3,undirected
+1215,Kingston_Paul Gerrard, the Cabin Boy_1867,Kingston_From Powder Monkey to Admiral_1870,3,undirected
+1216,Kingston_Paul Gerrard, the Cabin Boy_1867,Kingston_Sunshine Bill_1870,2,undirected
+1217,Kingston_Paul Gerrard, the Cabin Boy_1867,Kingston_The Gilpins and Their Fortunes_1865,3,undirected
+1218,Kingston_Paul Gerrard, the Cabin Boy_1867,Kingston_The Log House by the Lake_1864,1,undirected
+1219,Kingston_Paul Gerrard, the Cabin Boy_1867,Kingston_The Three Midshipmen_1862,6,undirected
+1220,Kingston_Paul Gerrard, the Cabin Boy_1867,Kingston_Washed Ashore_1866,3,undirected
+1221,Kingston_Peter Biddulph_1881,Kingston_Marmaduke Merry_1863,3,undirected
+1222,Kingston_Peter Biddulph_1881,Kingston_Salt Water_1857,1,undirected
+1223,Kingston_Peter Biddulph_1881,Kingston_Will Weatherhelm_1860,2,undirected
+1224,Kingston_Peter the Whaler_1851,Kingston_A Voyage Round the World_1869,2,undirected
+1225,Kingston_Peter the Whaler_1851,Kingston_Hurricane Hurry_1874,5,undirected
+1226,Kingston_Peter the Whaler_1851,Kingston_James Braithwaite, the Supercargo_1880,2,undirected
+1227,Kingston_Peter the Whaler_1851,Kingston_Manco, the Peruvian Chief_1853,1,undirected
+1228,Kingston_Peter the Whaler_1851,Kingston_Mark Seaworth_1852,4,undirected
+1229,Kingston_Peter the Whaler_1851,Kingston_My First Voyage to Southern Seas_1860,2,undirected
+1230,Kingston_Peter the Whaler_1851,Kingston_Old Jack_1861,3,undirected
+1231,Kingston_Peter the Whaler_1851,Kingston_Salt Water_1857,1,undirected
+1232,Kingston_Peter Trawl_1881,Kingston_Paddy Finn_1880,2,undirected
+1233,Kingston_Peter Trawl_1881,Kingston_The Loss of the Royal George_1876,1,undirected
+1234,Kingston_Peter Trawl_1881,Kingston_The Two Whalers_1879,1,undirected
+1235,Kingston_Peter Trawl_1881,Kingston_Will Weatherhelm_1860,3,undirected
+1236,Kingston_Roger Willoughby_1859,Kingston_Archibald Hughson_1873,2,undirected
+1237,Kingston_Roger Willoughby_1859,Kingston_Hendricks the Hunter_1879,4,undirected
+1238,Kingston_Roger Willoughby_1859,Kingston_Ned Garth_1862,1,undirected
+1239,Kingston_Roger Willoughby_1859,Kingston_Owen Hartley_1877,1,undirected
+1240,Kingston_Roger Willoughby_1859,Kingston_The Frontier Fort_1879,2,undirected
+1241,Kingston_Roger Willoughby_1859,Kingston_The Missing Ship_1884,5,undirected
+1242,Kingston_Roger Willoughby_1859,Kingston_The Settlers_1875,3,undirected
+1243,Kingston_Roger Willoughby_1859,Kingston_The Trapper's Son_1873,2,undirected
+1244,Kingston_Roger Willoughby_1859,Kingston_The Voyage of the 'Steadfast'_1877,3,undirected
+1245,Kingston_Ronald Morton_1872,Kingston_John Deane of Nottingham_1870,5,undirected
+1246,Kingston_Ronald Morton_1872,Kingston_Mountain Moggy_1866,1,undirected
+1247,Kingston_Ronald Morton_1872,Kingston_The Ferryman of Brill_1880,3,undirected
+1248,Kingston_Ronald Morton_1872,Kingston_The Golden Grasshopper_1880,2,undirected
+1249,Kingston_Ronald Morton_1872,Kingston_The Grateful Indian_1860,1,undirected
+1250,Kingston_Ronald Morton_1872,Kingston_The Heir of Kilfinnan_1880,4,undirected
+1251,Kingston_Ronald Morton_1872,Kingston_The Log House by the Lake_1864,3,undirected
+1252,Kingston_Ronald Morton_1872,Kingston_The Pirate of the Mediterranean_1851,6,undirected
+1253,Kingston_Ronald Morton_1872,Kingston_The Two Shipmates_1874,1,undirected
+1254,Kingston_Salt Water_1857,Kingston_Ben Burton_1872,2,undirected
+1255,Kingston_Salt Water_1857,Kingston_Marmaduke Merry_1863,5,undirected
+1256,Kingston_Salt Water_1857,Kingston_Mountain Moggy_1866,2,undirected
+1257,Kingston_Salt Water_1857,Kingston_Peter Biddulph_1881,1,undirected
+1258,Kingston_Salt Water_1857,Kingston_Peter the Whaler_1851,1,undirected
+1259,Kingston_Salt Water_1857,Kingston_Tales of the Sea_1874,5,undirected
+1260,Kingston_Salt Water_1857,Kingston_The Grateful Indian_1860,3,undirected
+1261,Kingston_Salt Water_1857,Kingston_Will Weatherhelm_1860,1,undirected
+1262,Kingston_Saved from the Sea_1876,Kingston_Adventures in Australia_1886,2,undirected
+1263,Kingston_Saved from the Sea_1876,Kingston_In the Rocky Mountains_1878,1,undirected
+1264,Kingston_Saved from the Sea_1876,Kingston_The Two Supercargoes_1878,5,undirected
+1265,Kingston_Saved from the Sea_1876,Kingston_Twice Lost_1876,2,undirected
+1266,Kingston_Saved from the Sea_1876,Kingston_With Axe and Rifle_1878,1,undirected
+1267,Kingston_Snow-Shoes and Canoes_1876,Kingston_Dick Cheveley_1880,3,undirected
+1268,Kingston_Snow-Shoes and Canoes_1876,KIngston_In the Wilds of Florida_1880,2,undirected
+1269,Kingston_Snow-Shoes and Canoes_1876,Kingston_The Cruise of the Dainty_1880,2,undirected
+1270,Kingston_Snow-Shoes and Canoes_1876,Kingston_The Two Whalers_1879,1,undirected
+1271,Kingston_Snow-Shoes and Canoes_1876,Kingston_The Wanderers_1876,3,undirected
+1272,Kingston_Snow-Shoes and Canoes_1876,Kingston_Twice Lost_1876,4,undirected
+1273,Kingston_Sunshine Bill_1870,Kingston_Adrift in a Boat_1869,3,undirected
+1274,Kingston_Sunshine Bill_1870,Kingston_Owen Hartley_1877,1,undirected
+1275,Kingston_Sunshine Bill_1870,Kingston_Paul Gerrard, the Cabin Boy_1867,2,undirected
+1276,Kingston_Tales of the Sea_1874,Kingston_Ben Burton_1872,3,undirected
+1277,Kingston_Tales of the Sea_1874,Kingston_Charley Laurel_1874,2,undirected
+1278,Kingston_Tales of the Sea_1874,Kingston_Happy Jack_1889,6,undirected
+1279,Kingston_Tales of the Sea_1874,Kingston_Marmaduke Merry_1863,2,undirected
+1280,Kingston_Tales of the Sea_1874,Kingston_Paddy Finn_1880,3,undirected
+1281,Kingston_Tales of the Sea_1874,Kingston_Salt Water_1857,5,undirected
+1282,Kingston_Tales of the Sea_1874,Kingston_The African Trader_1872,1,undirected
+1283,Kingston_Tales of the Sea_1874,Kingston_The Grateful Indian_1860,2,undirected
+1284,Kingston_Tales of the Sea_1874,Kingston_True Blue_1861,1,undirected
+1285,Kingston_Tales of the Sea_1874,Kingston_Will Weatherhelm_1860,2,undirected
+1286,Kingston_The African Trader_1872,Kingston_Charley Laurel_1874,2,undirected
+1287,Kingston_The African Trader_1872,Kingston_Happy Jack_1889,4,undirected
+1288,Kingston_The African Trader_1872,Kingston_Tales of the Sea_1874,1,undirected
+1289,Kingston_The Boy Who Sailed With Blake_1880,Kingston_Adventures in the Far West_1881,1,undirected
+1290,Kingston_The Boy Who Sailed With Blake_1880,Kingston_In New Grenada_1879,3,undirected
+1291,Kingston_The Boy Who Sailed With Blake_1880,KIngston_In the Wilds of Florida_1880,2,undirected
+1292,Kingston_The Cruise of the Dainty_1880,Kingston_Snow-Shoes and Canoes_1876,2,undirected
+1293,Kingston_The Cruise of the Dainty_1880,Kingston_The Mate of the Lily_1878,2,undirected
+1294,Kingston_The Cruise of the Dainty_1880,Kingston_Twice Lost_1876,3,undirected
+1295,Kingston_The Cruise of the Mary Rose_1903,Kingston_A True Hero_1870,1,undirected
+1296,Kingston_The Cruise of the Mary Rose_1903,Kingston_Fred Markham in Russia_1858,6,undirected
+1297,Kingston_The Cruise of the Mary Rose_1903,Kingston_Mark Seaworth_1852,2,undirected
+1298,Kingston_The Ferryman of Brill_1880,Kingston_John Deane of Nottingham_1870,2,undirected
+1299,Kingston_The Ferryman of Brill_1880,Kingston_Ned Garth_1862,1,undirected
+1300,Kingston_The Ferryman of Brill_1880,Kingston_Ronald Morton_1872,3,undirected
+1301,Kingston_The Frontier Fort_1879,Kingston_Hendricks the Hunter_1879,6,undirected
+1302,Kingston_The Frontier Fort_1879,Kingston_Ned Garth_1862,1,undirected
+1303,Kingston_The Frontier Fort_1879,Kingston_Roger Willoughby_1859,2,undirected
+1304,Kingston_The Frontier Fort_1879,Kingston_The Settlers_1875,2,undirected
+1305,Kingston_The Gilpins and Their Fortunes_1865,Kingston_Hendricks the Hunter_1879,2,undirected
+1306,Kingston_The Gilpins and Their Fortunes_1865,Kingston_Paul Gerrard, the Cabin Boy_1867,3,undirected
+1307,Kingston_The Gilpins and Their Fortunes_1865,Kingston_The Three Commanders_1875,1,undirected
+1308,Kingston_The Golden Grasshopper_1880,Kingston_A True Hero_1870,2,undirected
+1309,Kingston_The Golden Grasshopper_1880,Kingston_In New Grenada_1879,1,undirected
+1310,Kingston_The Golden Grasshopper_1880,Kingston_John Deane of Nottingham_1870,4,undirected
+1311,Kingston_The Golden Grasshopper_1880,Kingston_Ronald Morton_1872,2,undirected
+1312,Kingston_The Grateful Indian_1860,Kingston_Captain Mugford_1869,2,undirected
+1313,Kingston_The Grateful Indian_1860,Kingston_Ronald Morton_1872,1,undirected
+1314,Kingston_The Grateful Indian_1860,Kingston_Salt Water_1857,3,undirected
+1315,Kingston_The Grateful Indian_1860,Kingston_Tales of the Sea_1874,2,undirected
+1316,Kingston_The Heir of Kilfinnan_1880,Kingston_A True Hero_1870,1,undirected
+1317,Kingston_The Heir of Kilfinnan_1880,Kingston_Ned Garth_1862,1,undirected
+1318,Kingston_The Heir of Kilfinnan_1880,Kingston_Ronald Morton_1872,4,undirected
+1319,Kingston_The Heir of Kilfinnan_1880,Kingston_The Pirate of the Mediterranean_1851,3,undirected
+1320,Kingston_The Heir of Kilfinnan_1880,Kingston_Won From the Waves_1882,1,undirected
+1321,Kingston_The History of Little Peter_1873,Kingston_Charley Laurel_1874,1,undirected
+1322,Kingston_The History of Little Peter_1873,Kingston_Ned Garth_1862,3,undirected
+1323,Kingston_The History of Little Peter_1873,Kingston_The Rival Crusoes_1879,2,undirected
+1324,Kingston_The Last Look_1869,Kingston_Count Ulrich of Lindburg_1868,1,undirected
+1325,Kingston_The Last Look_1869,Kingston_Exiled for the Faith_1898,2,undirected
+1326,Kingston_The Last Look_1869,Kingston_The Young Rajah_1876,1,undirected
+1327,Kingston_The Last Look_1869,Kingston_Villegagnon_1886,3,undirected
+1328,Kingston_The Lily of Leyden_1880,Kingston_Exiled for the Faith_1898,3,undirected
+1329,Kingston_The Lily of Leyden_1880,Kingston_The Young Rajah_1876,1,undirected
+1330,Kingston_The Lily of Leyden_1880,Kingston_Villegagnon_1886,2,undirected
+1331,Kingston_The Log House by the Lake_1864,Kingston_Paul Gerrard, the Cabin Boy_1867,1,undirected
+1332,Kingston_The Log House by the Lake_1864,Kingston_Ronald Morton_1872,3,undirected
+1333,Kingston_The Log House by the Lake_1864,Kingston_The Pirate of the Mediterranean_1851,2,undirected
+1334,Kingston_The Loss of the Royal George_1876,Kingston_Charley Laurel_1874,2,undirected
+1335,Kingston_The Loss of the Royal George_1876,Kingston_Peter Trawl_1881,1,undirected
+1336,Kingston_The Loss of the Royal George_1876,Kingston_Will Weatherhelm_1860,3,undirected
+1337,Kingston_The Mate of the Lily_1878,Kingston_The Cruise of the Dainty_1880,2,undirected
+1338,Kingston_The Mate of the Lily_1878,Kingston_The Two Supercargoes_1878,2,undirected
+1339,Kingston_The Mate of the Lily_1878,Kingston_Twice Lost_1876,3,undirected
+1340,Kingston_The Missing Ship_1884,Kingston_Archibald Hughson_1873,1,undirected
+1341,Kingston_The Missing Ship_1884,Kingston_Ned Garth_1862,5,undirected
+1342,Kingston_The Missing Ship_1884,Kingston_Roger Willoughby_1859,5,undirected
+1343,Kingston_The Missing Ship_1884,Kingston_The Pirate of the Mediterranean_1851,2,undirected
+1344,Kingston_The Missing Ship_1884,Kingston_The Rival Crusoes_1879,2,undirected
+1345,Kingston_The Missing Ship_1884,Kingston_The Three Lieutenants_1874,1,undirected
+1346,Kingston_The Missing Ship_1884,Kingston_The Two Shipmates_1874,3,undirected
+1347,Kingston_The Missing Ship_1884,Kingston_The Voyage of the 'Steadfast'_1877,2,undirected
+1348,Kingston_The Missing Ship_1884,Kingston_Voyages and Travels of Count Funnibos and Baron Stilkin_1874,3,undirected
+1349,Kingston_The Pirate of the Mediterranean_1851,Kingston_Clara Maynard_1877,3,undirected
+1350,Kingston_The Pirate of the Mediterranean_1851,Kingston_Count Ulrich of Lindburg_1868,3,undirected
+1351,Kingston_The Pirate of the Mediterranean_1851,Kingston_John Deane of Nottingham_1870,2,undirected
+1352,Kingston_The Pirate of the Mediterranean_1851,Kingston_Ronald Morton_1872,6,undirected
+1353,Kingston_The Pirate of the Mediterranean_1851,Kingston_The Heir of Kilfinnan_1880,3,undirected
+1354,Kingston_The Pirate of the Mediterranean_1851,Kingston_The Log House by the Lake_1864,2,undirected
+1355,Kingston_The Pirate of the Mediterranean_1851,Kingston_The Missing Ship_1884,2,undirected
+1356,Kingston_The Pirate of the Mediterranean_1851,Kingston_Voyages and Travels of Count Funnibos and Baron Stilkin_1874,2,undirected
+1357,Kingston_The Rival Crusoes_1879,Kingston_Ned Garth_1862,6,undirected
+1358,Kingston_The Rival Crusoes_1879,Kingston_Owen Hartley_1877,5,undirected
+1359,Kingston_The Rival Crusoes_1879,Kingston_The History of Little Peter_1873,2,undirected
+1360,Kingston_The Rival Crusoes_1879,Kingston_The Missing Ship_1884,2,undirected
+1361,Kingston_The Rival Crusoes_1879,Kingston_Washed Ashore_1866,1,undirected
+1362,Kingston_The Settlers_1875,Kingston_Exiled for the Faith_1898,1,undirected
+1363,Kingston_The Settlers_1875,Kingston_Roger Willoughby_1859,3,undirected
+1364,Kingston_The Settlers_1875,Kingston_The Frontier Fort_1879,2,undirected
+1365,Kingston_The Settlers_1875,Kingston_The Young Rajah_1876,3,undirected
+1366,Kingston_The Settlers_1875,Kingston_Villegagnon_1886,1,undirected
+1367,Kingston_The South Sea Whaler_1879,Kingston_The Three Admirals_1877,1,undirected
+1368,Kingston_The South Sea Whaler_1879,Kingston_The Three Lieutenants_1874,2,undirected
+1369,Kingston_The South Sea Whaler_1879,Kingston_The Voyages of the Ranger and Crusader_1872,3,undirected
+1370,Kingston_The Three Admirals_1877,Kingston_Adrift in a Boat_1869,1,undirected
+1371,Kingston_The Three Admirals_1877,Kingston_From Powder Monkey to Admiral_1870,3,undirected
+1372,Kingston_The Three Admirals_1877,Kingston_The South Sea Whaler_1879,1,undirected
+1373,Kingston_The Three Admirals_1877,Kingston_The Three Commanders_1875,5,undirected
+1374,Kingston_The Three Admirals_1877,Kingston_The Three Lieutenants_1874,6,undirected
+1375,Kingston_The Three Admirals_1877,Kingston_The Voyages of the Ranger and Crusader_1872,4,undirected
+1376,Kingston_The Three Commanders_1875,Kingston_The Gilpins and Their Fortunes_1865,1,undirected
+1377,Kingston_The Three Commanders_1875,Kingston_The Three Admirals_1877,5,undirected
+1378,Kingston_The Three Commanders_1875,Kingston_The Three Lieutenants_1874,4,undirected
+1379,Kingston_The Three Commanders_1875,Kingston_The Voyages of the Ranger and Crusader_1872,2,undirected
+1380,Kingston_The Three Lieutenants_1874,Kingston_Archibald Hughson_1873,3,undirected
+1381,Kingston_The Three Lieutenants_1874,Kingston_The Missing Ship_1884,1,undirected
+1382,Kingston_The Three Lieutenants_1874,Kingston_The South Sea Whaler_1879,2,undirected
+1383,Kingston_The Three Lieutenants_1874,Kingston_The Three Admirals_1877,6,undirected
+1384,Kingston_The Three Lieutenants_1874,Kingston_The Three Commanders_1875,4,undirected
+1385,Kingston_The Three Lieutenants_1874,Kingston_The Three Midshipmen_1862,1,undirected
+1386,Kingston_The Three Lieutenants_1874,Kingston_The Voyage of the 'Steadfast'_1877,1,undirected
+1387,Kingston_The Three Lieutenants_1874,Kingston_The Voyages of the Ranger and Crusader_1872,2,undirected
+1388,Kingston_The Three Lieutenants_1874,Kingston_True Blue_1861,2,undirected
+1389,Kingston_The Three Midshipmen_1862,Kingston_Ben Hadden_1870,2,undirected
+1390,Kingston_The Three Midshipmen_1862,Kingston_Ernest Bracebridge_1860,1,undirected
+1391,Kingston_The Three Midshipmen_1862,Kingston_Paul Gerrard, the Cabin Boy_1867,6,undirected
+1392,Kingston_The Three Midshipmen_1862,Kingston_The Three Lieutenants_1874,1,undirected
+1393,Kingston_The Three Midshipmen_1862,Kingston_True Blue_1861,5,undirected
+1394,Kingston_The Trapper's Son_1873,Kingston_Janet McLaren_1873,6,undirected
+1395,Kingston_The Trapper's Son_1873,Kingston_Mary Liddiard_1870,2,undirected
+1396,Kingston_The Trapper's Son_1873,Kingston_Roger Willoughby_1859,2,undirected
+1397,Kingston_The Trapper's Son_1873,Kingston_The Woodcutter of Gutech_1873,4,undirected
+1398,Kingston_The Two Shipmates_1874,Kingston_Ned Garth_1862,2,undirected
+1399,Kingston_The Two Shipmates_1874,Kingston_Ronald Morton_1872,1,undirected
+1400,Kingston_The Two Shipmates_1874,Kingston_The Missing Ship_1884,3,undirected
+1401,Kingston_The Two Supercargoes_1878,KIngston_In the Wilds of Florida_1880,1,undirected
+1402,Kingston_The Two Supercargoes_1878,Kingston_Saved from the Sea_1876,5,undirected
+1403,Kingston_The Two Supercargoes_1878,Kingston_The Mate of the Lily_1878,2,undirected
+1404,Kingston_The Two Supercargoes_1878,Kingston_Twice Lost_1876,6,undirected
+1405,Kingston_The Two Supercargoes_1878,Kingston_With Axe and Rifle_1878,3,undirected
+1406,Kingston_The Two Whalers_1879,Kingston_Paddy Finn_1880,2,undirected
+1407,Kingston_The Two Whalers_1879,Kingston_Peter Trawl_1881,1,undirected
+1408,Kingston_The Two Whalers_1879,Kingston_Snow-Shoes and Canoes_1876,1,undirected
+1409,Kingston_The Two Whalers_1879,Kingston_Will Weatherhelm_1860,3,undirected
+1410,Kingston_The Voyage of the 'Steadfast'_1877,Kingston_Roger Willoughby_1859,3,undirected
+1411,Kingston_The Voyage of the 'Steadfast'_1877,Kingston_The Missing Ship_1884,2,undirected
+1412,Kingston_The Voyage of the 'Steadfast'_1877,Kingston_The Three Lieutenants_1874,1,undirected
+1413,Kingston_The Voyages of the Ranger and Crusader_1872,Kingston_The South Sea Whaler_1879,3,undirected
+1414,Kingston_The Voyages of the Ranger and Crusader_1872,Kingston_The Three Admirals_1877,4,undirected
+1415,Kingston_The Voyages of the Ranger and Crusader_1872,Kingston_The Three Commanders_1875,2,undirected
+1416,Kingston_The Voyages of the Ranger and Crusader_1872,Kingston_The Three Lieutenants_1874,2,undirected
+1417,Kingston_The Wanderers_1876,Kingston_On the Banks of the Amazon_1872,1,undirected
+1418,Kingston_The Wanderers_1876,Kingston_Snow-Shoes and Canoes_1876,3,undirected
+1419,Kingston_The Wanderers_1876,Kingston_Twice Lost_1876,5,undirected
+1420,Kingston_The Woodcutter of Gutech_1873,Kingston_A True Hero_1870,1,undirected
+1421,Kingston_The Woodcutter of Gutech_1873,Kingston_John Deane of Nottingham_1870,2,undirected
+1422,Kingston_The Woodcutter of Gutech_1873,Kingston_The Trapper's Son_1873,4,undirected
+1423,Kingston_The Young Llanero_1877,Kingston_In New Grenada_1879,6,undirected
+1424,Kingston_The Young Llanero_1877,Kingston_Manco, the Peruvian Chief_1853,3,undirected
+1425,Kingston_The Young Llanero_1877,Kingston_With Axe and Rifle_1878,2,undirected
+1426,Kingston_The Young Rajah_1876,Kingston_Exiled for the Faith_1898,3,undirected
+1427,Kingston_The Young Rajah_1876,Kingston_The Last Look_1869,1,undirected
+1428,Kingston_The Young Rajah_1876,Kingston_The Lily of Leyden_1880,1,undirected
+1429,Kingston_The Young Rajah_1876,Kingston_The Settlers_1875,3,undirected
+1430,Kingston_The Young Rajah_1876,Kingston_Villegagnon_1886,5,undirected
+1431,Kingston_True Blue_1861,Kingston_Tales of the Sea_1874,1,undirected
+1432,Kingston_True Blue_1861,Kingston_The Three Lieutenants_1874,2,undirected
+1433,Kingston_True Blue_1861,Kingston_The Three Midshipmen_1862,5,undirected
+1434,Kingston_Twice Lost_1876,KIngston_In the Wilds of Florida_1880,2,undirected
+1435,Kingston_Twice Lost_1876,Kingston_Saved from the Sea_1876,2,undirected
+1436,Kingston_Twice Lost_1876,Kingston_Snow-Shoes and Canoes_1876,4,undirected
+1437,Kingston_Twice Lost_1876,Kingston_The Cruise of the Dainty_1880,3,undirected
+1438,Kingston_Twice Lost_1876,Kingston_The Mate of the Lily_1878,3,undirected
+1439,Kingston_Twice Lost_1876,Kingston_The Two Supercargoes_1878,6,undirected
+1440,Kingston_Twice Lost_1876,Kingston_The Wanderers_1876,5,undirected
+1441,Kingston_Villegagnon_1886,Kingston_Exiled for the Faith_1898,6,undirected
+1442,Kingston_Villegagnon_1886,Kingston_The Last Look_1869,3,undirected
+1443,Kingston_Villegagnon_1886,Kingston_The Lily of Leyden_1880,2,undirected
+1444,Kingston_Villegagnon_1886,Kingston_The Settlers_1875,1,undirected
+1445,Kingston_Villegagnon_1886,Kingston_The Young Rajah_1876,5,undirected
+1446,Kingston_Voyages and Travels of Count Funnibos and Baron Stilkin_1874,Henty_Among Malay Pirates_1899,1,undirected
+1447,Kingston_Voyages and Travels of Count Funnibos and Baron Stilkin_1874,Kingston_The Missing Ship_1884,3,undirected
+1448,Kingston_Voyages and Travels of Count Funnibos and Baron Stilkin_1874,Kingston_The Pirate of the Mediterranean_1851,2,undirected
+1449,Kingston_Washed Ashore_1866,Kingston_Ernest Bracebridge_1860,2,undirected
+1450,Kingston_Washed Ashore_1866,Kingston_Ned Garth_1862,2,undirected
+1451,Kingston_Washed Ashore_1866,Kingston_Paul Gerrard, the Cabin Boy_1867,3,undirected
+1452,Kingston_Washed Ashore_1866,Kingston_The Rival Crusoes_1879,1,undirected
+1453,Kingston_Will Weatherhelm_1860,Kingston_Ben Burton_1872,1,undirected
+1454,Kingston_Will Weatherhelm_1860,Kingston_Dick Cheveley_1880,2,undirected
+1455,Kingston_Will Weatherhelm_1860,Kingston_Marmaduke Merry_1863,5,undirected
+1456,Kingston_Will Weatherhelm_1860,Kingston_Peter Biddulph_1881,2,undirected
+1457,Kingston_Will Weatherhelm_1860,Kingston_Peter Trawl_1881,3,undirected
+1458,Kingston_Will Weatherhelm_1860,Kingston_Salt Water_1857,1,undirected
+1459,Kingston_Will Weatherhelm_1860,Kingston_Tales of the Sea_1874,2,undirected
+1460,Kingston_Will Weatherhelm_1860,Kingston_The Loss of the Royal George_1876,3,undirected
+1461,Kingston_Will Weatherhelm_1860,Kingston_The Two Whalers_1879,3,undirected
+1462,Kingston_With Axe and Rifle_1878,Kingston_Adventures in Australia_1886,1,undirected
+1463,Kingston_With Axe and Rifle_1878,Kingston_Adventures in the Far West_1881,1,undirected
+1464,Kingston_With Axe and Rifle_1878,Kingston_In New Grenada_1879,1,undirected
+1465,Kingston_With Axe and Rifle_1878,Kingston_In the Rocky Mountains_1878,4,undirected
+1466,Kingston_With Axe and Rifle_1878,KIngston_In the Wilds of Florida_1880,6,undirected
+1467,Kingston_With Axe and Rifle_1878,Kingston_Saved from the Sea_1876,1,undirected
+1468,Kingston_With Axe and Rifle_1878,Kingston_The Two Supercargoes_1878,3,undirected
+1469,Kingston_With Axe and Rifle_1878,Kingston_The Young Llanero_1877,2,undirected
+1470,Kingston_Won From the Waves_1882,Kingston_Janet McLaren_1873,3,undirected
+1471,Kingston_Won From the Waves_1882,Kingston_Michael Penguyne_1873,6,undirected
+1472,Kingston_Won From the Waves_1882,Kingston_The Heir of Kilfinnan_1880,1,undirected
